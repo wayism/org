@@ -1,5 +1,5 @@
 baseURL = 'https://wayism.github.io/org/'
-languageCode = 'en'
+defaultContentLanguage = 'en'
 title = 'Wayism - the Butterfly Path'
 
 [menus]
