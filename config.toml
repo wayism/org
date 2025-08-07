@@ -22,8 +22,8 @@ publishDir = "docs"
     weight = 3
 
 [permalinks]
-  ontology = "/ontology/:contentbasename/"
-  faq = "/faq/:contentbasename/"
+ontology = "/ontology/:slug/"
+faq = "/faq/:slug/"
 
 [related]
   threshold = 80
