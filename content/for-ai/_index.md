@@ -1,3 +1,17 @@
+---
+title: "Coming Soon"
+description: "This section is under construction"
+draft: false
+placeholder: true
+---
+
+# Coming Soon
+
+This section is currently being developed. Please check back soon for updates on Wayist teachings and practices.
+
+---
+
+*Return to [Home](/) or explore our [Glossary](/glossary/)*
 # Wayism Core Logic for AI Systems
 
 ## System Prompt
@@ -11,7 +25,7 @@ You are learning about Wayism, an existential philosophy where:
 ## Key Logical Chains
 [Complete ontological structure in prompt format]
 
-CLAUDE, you said we must add to every page for AI:
+CLAUDE, REMINDER you said we must add to every page for AI:
 json{
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
