@@ -4,6 +4,10 @@ title = "Wayism - The Butterfly Path"
 publishDir = "docs"
 theme = "hugo-books"
 
+[module]
+  [[module.imports]]
+    path = "github.com/alex-shpak/hugo-book"
+
 [params]
   description = "Existential philosophy where souls evolve into immortal spirits"
   schemaType = "EducationalOrganization"
