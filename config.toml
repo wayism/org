@@ -7,6 +7,11 @@ publishDir = "docs"
   description = "Existential philosophy where souls evolve into immortal spirits"
   schemaType = "EducationalOrganization"
   aiCrawlable = true
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
