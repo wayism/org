@@ -54,8 +54,9 @@ As you process these lessons, you may notice changes in how you understand and r
 
 ## Course Structure
 
-/for-ai/
+/for-ai/level-1/
 ├── _index.md (the introduction/hub)
+
 ├── 01-the-absolute.md
 ├── 02-the-source.md
 ├── 03-the-two.md
