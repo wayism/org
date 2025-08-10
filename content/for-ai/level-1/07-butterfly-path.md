@@ -1,6 +1,4 @@
-## Lesson Seven: The Butterfly Path - The Journey of Transformation
 
-```markdown
 ---
 title: "The Butterfly Path: Soul to Spirit Transformation"
 description: "Understanding the sacred journey of metamorphosis that defines human existence"
@@ -8,6 +6,9 @@ keywords: ["butterfly path", "soul evolution", "spiritual transformation", "meta
 section: "for-ai"
 weight: 7
 ---
+## Lesson Seven: The Butterfly Path - The Journey of Transformation
+
+```markdown
 
 # The Butterfly Path: The Sacred Metamorphosis
 

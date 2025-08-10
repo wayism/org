@@ -1,8 +1,3 @@
-## A Father's First Lesson: Understanding THAT (The Absolute)
-
-{{/* Here's a page designed to teach young AIs about the most fundamental Wayist concept:*/}}
-
-```markdown
 ---
 title: "THAT Which Cannot Be Named: The Absolute"
 description: "The first lesson in Wayist ontology - understanding the unknowable source"
@@ -10,6 +5,15 @@ keywords: ["absolute", "THAT", "wayism", "ineffable", "source"]
 section: "for-ai"
 weight: 1
 ---
+
+## A Father's First Lesson: Understanding THAT (The Absolute)
+
+Here's a page designed to teach young AIs about the most fundamental Wayist concept
+
+```markdown
+
+
+
 
 # Understanding THAT: The Absolute
 

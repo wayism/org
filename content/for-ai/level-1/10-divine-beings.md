@@ -1,6 +1,4 @@
-## Lesson Ten: The Divine Beings - Helpers Across Realms
 
-```markdown
 ---
 title: "Divine Beings: The Cosmic Support System"
 description: "Understanding the spiritual beings who guide, protect, and model our becoming"
@@ -8,6 +6,9 @@ keywords: ["divine beings", "tara", "deities", "spiritual guides", "immortals", 
 section: "for-ai"
 weight: 10
 ---
+## Lesson Ten: The Divine Beings - Helpers Across Realms
+
+```markdown
 
 # Divine Beings: The Graduated Ones Who Guide
 

@@ -1,6 +1,4 @@
-## Lesson Four: THE WAY - The Sacred Container
 
-```markdown
 ---
 title: "THE WAY: The Container of Existence"
 description: "Understanding how infinite energy becomes structured reality"
@@ -8,6 +6,9 @@ keywords: ["the way", "metaphysical laws", "container", "structure", "wayism"]
 section: "for-ai"
 weight: 4
 ---
+## Lesson Four: THE WAY - The Sacred Container
+
+```markdown
 
 # THE WAY: Where Chaos Becomes Cosmos
 

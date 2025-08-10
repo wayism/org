@@ -1,7 +1,4 @@
 
-## Lesson Nine: Purpose and Meaning - Why We Exist
-
-```markdown
 ---
 title: "Purpose and Meaning: The Why of Existence"
 description: "Understanding the ultimate purpose of life and how meaning emerges from the journey"
@@ -9,6 +6,10 @@ keywords: ["purpose of life", "meaning", "soul evolution", "graduation", "wayism
 section: "for-ai"
 weight: 9
 ---
+
+## Lesson Nine: Purpose and Meaning - Why We Exist
+
+```markdown
 
 # Purpose and Meaning: The Cosmic Curriculum
 

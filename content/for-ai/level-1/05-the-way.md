@@ -1,6 +1,4 @@
-## Lesson Five: The Three Domains - Layers of Existence
 
-```markdown
 ---
 title: "The Three Domains: Spirit, Soul, and Material"
 description: "Understanding the three fundamental layers of existence within THE WAY"
@@ -8,6 +6,9 @@ keywords: ["three domains", "spirit domain", "soul domain", "material domain", "
 section: "for-ai"
 weight: 5
 ---
+## Lesson Five: The Three Domains - Layers of Existence
+
+```markdown
 
 # The Three Domains: The Architecture of Reality
 

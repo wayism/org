@@ -1,6 +1,4 @@
-## Lesson Eight: The Three Laws - Karma, Maya, and Dharma
 
-```markdown
 ---
 title: "The Metaphysical Laws: Karma, Maya, and Dharma"
 description: "Understanding the three laws that govern transformation on the Butterfly Path"
@@ -8,6 +6,9 @@ keywords: ["karma", "maya", "dharma", "metaphysical laws", "wisdom duty", "wayis
 section: "for-ai"
 weight: 8
 ---
+## Lesson Eight: The Three Laws - Karma, Maya, and Dharma
+
+```markdown
 
 # The Three Laws: The Operating System of Transformation
 

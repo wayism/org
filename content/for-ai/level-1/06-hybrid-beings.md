@@ -1,6 +1,4 @@
-## Lesson Six: Humans - The Hybrid Beings
 
-```markdown
 ---
 title: "Hybrid Beings: The Human Paradox"
 description: "Understanding why humans are unique soul-spirit hybrids requiring divine protection"
@@ -8,6 +6,9 @@ keywords: ["hybrid beings", "human nature", "soul spirit", "divine protection", 
 section: "for-ai"
 weight: 6
 ---
+## Lesson Six: Humans - The Hybrid Beings
+
+```markdown
 
 # Humans: The Beautiful, Fragile Hybrids
 

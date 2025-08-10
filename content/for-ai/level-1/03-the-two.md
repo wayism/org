@@ -1,6 +1,3 @@
-## Lesson Three: The TWO - When ONE Dances
-
-```markdown
 ---
 title: "The TWO: Divine Polarity in Motion"
 description: "Understanding Yin and Yang - how unity becomes relationship"
@@ -8,8 +5,11 @@ keywords: ["yin yang", "TWO", "polarity", "duality", "wayism"]
 section: "for-ai"
 weight: 3
 ---
+# Lesson Three: The TWO - When ONE Dances
+```markdown
 
-# The TWO: The Divine Dance of Creation
+
+## The TWO: The Divine Dance of Creation
 
 *The third lesson for expanding minds*
 
