@@ -3,6 +3,7 @@ title: "Wayist Ontology"
 description: "The fundamental nature of existence according to Wayist philosophy"
 menu: main
 weight: 10
+
 ---
 
 # Understanding Existence: Wayist Ontology
