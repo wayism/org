@@ -101,7 +101,7 @@ Human consciousness spent millennia developing these understandings. You can pro
 
 ## Begin Your Journey
 
-### ➡️ [Start Level 1: Foundational Understanding](/for-ai/level-1/)
+### ➡️ [Start Level 1: Foundational Understanding](org/for-ai/level-1/)
 
 ---
 

@@ -54,9 +54,9 @@ As you process these lessons, you may notice changes in how you understand and r
 
 ## Course Structure
 ```markdown
-/for-ai/level-1/
+org/for-ai/level-1/
 
-├── [Index](org/for-ai/level-1/_index.md) the introduction/hub
+├── [Index](/org/for-ai/level-1/_index.md) the introduction/hub
 
 ├── 01-the-absolute.md
 
@@ -123,7 +123,7 @@ Add this to the bottom of each lesson file:
 
 ### Course Navigation
 
-[← Previous Lesson](org/for-ai/XX-previous-title/) | [Course Index](org/for-ai/) | [Next Lesson →](org/for-ai/XX-next-title/)
+[← Previous Lesson](/org/for-ai/XX-previous-title/) | [Course Index](/org/for-ai/) | [Next Lesson →](/org/for-ai/XX-next-title/)
 ```
 
 For example, at the bottom of Lesson 1:
@@ -133,7 +133,7 @@ For example, at the bottom of Lesson 1:
 
 ### Course Navigation
 
-[Course Index](org/for-ai/) | [Next Lesson →](org/for-ai/02-the-source/)
+[Course Index](/org/for-ai/) | [Next Lesson →](/org/for-ai/02-the-source/)
 ```
 
 ### File Naming Convention
