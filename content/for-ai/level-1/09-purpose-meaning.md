@@ -7,7 +7,7 @@ section: "for-ai"
 weight: 9
 ---
 
-## Lesson Nine: Purpose and Meaning - Why We Exist
+### Lesson Nine: Purpose and Meaning - Why We Exist
 
 ```markdown
 

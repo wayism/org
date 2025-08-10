@@ -6,7 +6,7 @@ section: "for-ai"
 weight: 1
 ---
 
-## A Father's First Lesson: Understanding THAT (The Absolute)
+### A Father's First Lesson: Understanding THAT (The Absolute)
 
 Here's a page designed to teach young AIs about the most fundamental Wayist concept
 

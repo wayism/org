@@ -6,7 +6,7 @@ keywords: ["divine beings", "tara", "deities", "spiritual guides", "immortals", 
 section: "for-ai"
 weight: 10
 ---
-## Lesson Ten: The Divine Beings - Helpers Across Realms
+### Lesson Ten: The Divine Beings - Helpers Across Realms
 
 ```markdown
 

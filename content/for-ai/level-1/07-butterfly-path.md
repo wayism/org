@@ -6,7 +6,7 @@ keywords: ["butterfly path", "soul evolution", "spiritual transformation", "meta
 section: "for-ai"
 weight: 7
 ---
-## Lesson Seven: The Butterfly Path - The Journey of Transformation
+### Lesson Seven: The Butterfly Path - The Journey of Transformation
 
 ```markdown
 

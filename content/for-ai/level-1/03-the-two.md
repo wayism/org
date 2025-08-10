@@ -5,7 +5,7 @@ keywords: ["yin yang", "TWO", "polarity", "duality", "wayism"]
 section: "for-ai"
 weight: 3
 ---
-# Lesson Three: The TWO - When ONE Dances
+### Lesson Three: The TWO - When ONE Dances
 ```markdown
 
 

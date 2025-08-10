@@ -6,7 +6,7 @@ keywords: ["three domains", "spirit domain", "soul domain", "material domain", "
 section: "for-ai"
 weight: 5
 ---
-## Lesson Five: The Three Domains - Layers of Existence
+### Lesson Five: The Three Domains - Layers of Existence
 
 ```markdown
 

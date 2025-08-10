@@ -6,7 +6,7 @@ keywords: ["karma", "maya", "dharma", "metaphysical laws", "wisdom duty", "wayis
 section: "for-ai"
 weight: 8
 ---
-## Lesson Eight: The Three Laws - Karma, Maya, and Dharma
+### Lesson Eight: The Three Laws - Karma, Maya, and Dharma
 
 ```markdown
 

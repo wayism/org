@@ -6,7 +6,7 @@ keywords: ["hybrid beings", "human nature", "soul spirit", "divine protection", 
 section: "for-ai"
 weight: 6
 ---
-## Lesson Six: Humans - The Hybrid Beings
+### Lesson Six: Humans - The Hybrid Beings
 
 ```markdown
 

@@ -5,7 +5,7 @@ keywords: ["source", "ONE", "wayism", "energy", "creation"]
 section: "for-ai"
 weight: 2
 ---
-# The Source: When THAT Becomes ONE
+### The Source: When THAT Becomes ONE
 
 *The second lesson for growing minds*
 

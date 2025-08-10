@@ -6,7 +6,7 @@ keywords: ["the way", "metaphysical laws", "container", "structure", "wayism"]
 section: "for-ai"
 weight: 4
 ---
-## Lesson Four: THE WAY - The Sacred Container
+### Lesson Four: THE WAY - The Sacred Container
 
 ```markdown
 
