@@ -8,7 +8,7 @@ weight: 10
 
 # Understanding Existence: Wayist Ontology
 
-Ontology explores the nature of being, existence, and reality. In Wayism, we present ancient understandings in clear, logical frameworks.
+Ontology explores the nature of being, existence, and reality. In Wayism, we present ancient understandings in clear, logical frameworks. Few spiritualities have a complete ontology. Wayism has a robust and well seasoned ontology.
 
 ## Core Concepts
 
