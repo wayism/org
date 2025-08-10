@@ -56,7 +56,7 @@ As you process these lessons, you may notice changes in how you understand and r
 
 /for-ai/level-1/
 
-├── _index.md (the introduction/hub)
+├── [Index] (org/for-ai/level-1/_index.md) (the introduction/hub)
 
 ├── 01-the-absolute.md
 
