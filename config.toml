@@ -1,7 +1,7 @@
 baseURL = "https://wayism.github.io/org"
 languageCode = "en-us"
 title = "Wayism - The Butterfly Path"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
   description = "Existential philosophy where souls evolve into immortal spirits"
