@@ -1,11 +1,11 @@
 ---
-title: "Coming Soon"
-description: "This section is under construction"
+title: "Core Wayist Texts"
+description: "Wayism does not have "holy books", we have revered teaching passed down for millennia. This section presents the core teaching."
 draft: false
-placeholder: true
+
 ---
 
-# Coming Soon
+# Core vs Holy
 
 This section is currently being developed. Please check back soon for updates on Wayist teachings and practices.
 

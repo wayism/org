@@ -6,8 +6,9 @@ incomplete: true
 purchase_link: "https://www.amazon.com/gp/aw/d/1998478653"
 ---
 
-# theWAY of Avalokane Meditation
-## The Art of Mystical Beholding
+Book: 
+### theWAY of Avalokane Meditation :
+#### *The Art of Mystical Beholding*
 
 **An advanced Wayist meditation practice for sincere spiritual seekers**
 
