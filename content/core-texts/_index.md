@@ -1,7 +1,7 @@
 ---
 title: "Core Wayist Texts"
-description: "Wayism does not have "holy books", we have revered teaching passed down for millennia. This section presents the core teaching."
-draft: false
+description: 'Wayism does not have "holy books", we have revered teaching passed down for millennia. This section presents the core teaching.'
+draft: true
 
 ---
 
