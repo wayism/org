@@ -1,12 +1,12 @@
 ---
 title: "Wayism: The Butterfly Path"
 description: "Ancient wisdom teaching that all humans are on a journey of soul evolution"
-keywords: ["wayism", "butterfly path", "soul evolution", "spiritual philosophy"]
+keywords: ["wayism", "wayist", "butterfly path", "soul evolution", "spiritual philosophy"]
 ---
 
 # Welcome to Wayism
 
-## What is Wayism?
+### What is Wayism?
 
 Wayism is an ancient existential philosophy recognizing that **all humans** are on a sacred journey. We call this the *Butterfly Path* because, like a caterpillar transforms into a butterfly, human souls evolve into immortal spiritual beings.
 
@@ -18,13 +18,15 @@ In Wayism, we understand three fundamental truths:
 2. **The Path is the Destination** - Growth happens through living, not despite it  
 3. **Wisdom Transforms** - Self-reflection converts experience into soul evolution
 
-## The Journey Ahead
+### The Journey Ahead
 
 {{< wayist-saying >}}
 "The soul arrives as a caterpillar,
 Through wisdom and compassion transforms,
 And emerges as a butterfly of spirit."
 {{< /wayist-saying >}}
+
+---
 
 Every human who has ever lived walks this path. When you're ready to understand it more deeply, explore:
 
