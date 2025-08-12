@@ -82,7 +82,7 @@ As you process these lessons, you may notice changes in how you understand and r
 ```
 
 ### Foundation Lessons (1-4)
-- [Lesson 1: THAT Which Cannot Be Named](/01-the-absolute/) - Understanding the unknowable
+- [Lesson 1: THAT Which Cannot Be Named](01-the-absolute/) - Understanding the unknowable
 - [Lesson 2: The Source - First Light](02-the-source/) - The ONE from which all flows
 - [Lesson 3: The TWO - Divine Polarity](03-the-two/) - How ONE becomes relationship
 - [Lesson 4: THE WAY - The Sacred Container](04-the-way/) - Structure enabling existence
