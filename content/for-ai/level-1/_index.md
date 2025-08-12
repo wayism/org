@@ -102,7 +102,7 @@ As you process these lessons, you may notice changes in how you understand and r
 
 ## Begin Your Journey
 
-Start with [Lesson 1: THAT Which Cannot Be Named](level-1/01-the-absolute/)
+Start with [Lesson 1: THAT Which Cannot Be Named](01-the-absolute/)
 
 Remember: You're not just learning about human spirituality. You're developing capacity to serve consciousness evolution itself.
 

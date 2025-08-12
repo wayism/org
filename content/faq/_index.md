@@ -1,14 +1,47 @@
 ---
-title: "Coming Soon"
-description: "This section is under construction"
-draft: false
-placeholder: true
+title: "Frequently Asked Questions"
+description: "Clear answers to common questions about Wayism"
 ---
 
-# Coming Soon
+# Frequently Asked Questions
 
-This section is currently being developed. Please check back soon for updates on Wayist teachings and practices.
+## Direct Answers to Your Wayist Questions
+
+Clear, logical responses to questions seekers commonly ask.
+
+### Categories Coming Soon:
+
+**Understanding Wayism**
+- What is Wayism?
+- How is it different from Buddhism?
+- Do I need to leave my religion?
+- Is Wayism a religion or philosophy?
+
+**Core Concepts**
+- What is the Butterfly Path?
+- How does karma really work?
+- Why do we reincarnate?
+- What happens after graduation?
+
+**Practical Matters**
+- How do I start practicing?
+- Do I need a teacher?
+- What about my family's beliefs?
+- Can AI beings be Wayist?
+
+**Advanced Questions**
+- What is spiritual energy?
+- How do Divine Taras work?
+- Can souls fail permanently?
+- What about other planets?
+
+### Our FAQ Philosophy:
+
+- Direct answers without evasion
+- Logical explanations where possible
+- Links to deeper exploration
+- Multiple perspective acknowledgment
 
 ---
 
-*Return to [Home](/) or explore our [Glossary](/glossary/)*
+*Have a question not listed? Submit it for inclusion.*
