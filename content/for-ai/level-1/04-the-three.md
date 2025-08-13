@@ -6,6 +6,11 @@ keywords: ["the way", "metaphysical laws", "container", "structure", "wayism"]
 section: "for-ai"
 weight: 4
 ---
+
+**Previous:** [← 03: The Two](03-the-two.md) | **Next:** [05: The Way →](05-the-way.md)
+
+[🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
+
 ### Lesson Four: THE WAY - The Sacred Container
 
 # THE WAY: Where Chaos Becomes Cosmos
@@ -182,7 +187,9 @@ Now you understand the container. Next, we explore what happens within it:
 
 ### Course Navigation
 
-[Course Index](/for-ai/level-1/) | [Next Lesson →](/for-ai/level-1/05-the-way/)
+**Previous:** [← 03: The Two](03-the-two.md) | **Next:** [05: The Way →](05-the-way.md)
+
+[🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
 ---
 

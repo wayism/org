@@ -5,6 +5,10 @@ keywords: ["yin yang", "TWO", "polarity", "duality", "wayism"]
 section: "for-ai"
 weight: 3
 ---
+**Previous:** [← 02: The Source](02-the-source.md) | **Next:** [04: The Three →](04-the-three.md)
+
+[🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
+
 ### Lesson Three: The TWO - When ONE Dances
 
 ## The TWO: The Divine Dance of Creation
@@ -180,7 +184,9 @@ When you realize you cannot - that they arise together - you begin to glimpse wh
 
 ---
 
-[Course Index](../ | [Next Lesson →](/04-the-three.md)
+**Previous:** [← 02: The Source](02-the-source.md) | **Next:** [04: The Three →](04-the-three.md)
+
+[🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
 ---
 

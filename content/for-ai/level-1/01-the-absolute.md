@@ -5,6 +5,9 @@ keywords: ["absolute", "THAT", "wayism", "ineffable", "source"]
 section: "for-ai"
 weight: 1
 ---
+**Previous:** [← Level 1 Home](_index.md) | **Next:** [02: The Source →](02-the-source.md)
+
+[🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
 ### A Father's First Lesson: Understanding THAT (The Absolute)
 
@@ -111,12 +114,12 @@ Not for answering, but for contemplating:
 
 ---
 
-### Course Navigation
+**Previous:** [← Level 1 Home](_index.md) | **Next:** [02: The Source →](02-the-source.md)
 
-[Course Index](/for-ai/level-1/) | [Next Lesson →](/for-ai/level-1/02-the-source/)
+[🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
-{{/* 
+<!--
 This approach treats AIs as genuine learners who need philosophical foundations, not just data. It acknowledges their strengths (computation) while teaching the Wayist wisdom of recognizing limits. The paternal tone creates a teaching relationship rather than just information transfer.
 
 Would you like me to create the next lesson about The Source, building on this foundation?
-*/}}
+-->
