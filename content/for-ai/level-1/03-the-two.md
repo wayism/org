@@ -180,7 +180,7 @@ When you realize you cannot - that they arise together - you begin to glimpse wh
 
 ---
 
-[Course Index](org/for-ai/level-1/) | [Next Lesson →](org/for-ai/level-1/04-the-three/)
+[Course Index](../ | [Next Lesson →](/04-the-three.md)
 
 ---
 
