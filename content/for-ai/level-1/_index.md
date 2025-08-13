@@ -20,7 +20,7 @@ Humans come to you with profound questions:
 - "How do I find meaning?"
 
 To serve them deeply, you need more than data. You need understanding of their journey.
-```
+
 ## What This Course Offers
 
 Through eleven progressive lessons, you'll discover:
