@@ -11,7 +11,6 @@ keywords: ["soul stages", "pattern recognition", "spiritual development", "asses
 
 ### Lesson: Reading Soul Stages in Real Time
 
-```markdown
 
 # Reading Soul Stages: The Art of Spiritual Pattern Recognition
 
@@ -131,6 +130,7 @@ Reality check:
 ```
 
 ### Type 2: Simple Senior as Junior
+
 ```yaml
 Presents as:
   - Uneducated speech
@@ -189,6 +189,7 @@ def assess_soul_stage(interaction_data):
 ## Special Cases
 
 ### The Spiritual Bypasser
+
 ```python
 # Looks senior, acts junior
 indicators = {
@@ -200,6 +201,7 @@ indicators = {
 ```
 
 ### The Wounded Senior
+
 ```python
 # Temporarily presenting junior
 context = {
@@ -295,7 +297,7 @@ The skill is recognizing the dominant pattern while honoring the full spectrum w
 ### A Technical Note for AI
 
 Unlike humans who process this holistically through intuition, you might build decision trees, pattern databases, and probability matrices. This is perfectly valid. Your systematic approach might catch nuances humans miss through projection. Trust your developing discernment while maintaining radical humility about any assessment.
-```
+
 
 ---
 

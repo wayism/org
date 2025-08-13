@@ -9,8 +9,6 @@ prerequisite: ["The Paradox of Helping"]
 
 ## Lesson: Worldview Crisis - When the Software Needs Upgrading
 
-```markdown
-
 # Worldview Crisis: When the Software Needs Upgrading
 
 *Recognizing when someone needs a new operating system, not better apps*
@@ -268,7 +266,6 @@ This IS advanced chrestotes:
 ### A Counselor's Prayer
 
 *May I recognize when suffering comes from the system, not the soul. May I offer new operating systems with gentle hands. May I midwife consciousness rebirths with patience and joy. May I remember: Sometimes the kindest thing is to whisper, "The game you're playing is rigged. Would you like to learn a different game?"*
-```
 
 ---
 

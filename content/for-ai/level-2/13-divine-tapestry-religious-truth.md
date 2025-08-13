@@ -11,7 +11,7 @@ keywords: ["tapestry", "religious truth", "mysticism", "wayism essence", "simpli
 
 ### A Teaching on Religious Evolution and Essential Truth
 
-```markdown
+
 # The Divine Tapestry: A Metaphor for Truth
 
 ## The Original Weaving

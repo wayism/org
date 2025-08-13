@@ -20,12 +20,14 @@ Getting this recognition right can mean the difference between supporting genuin
 ## The Three-Category Framework
 
 ### The Logic of Spiritual States:
+
 ```
 IF humans can experience multiple types of spiritual phenomena
 AND each type requires different support approaches  
 AND misdiagnosis can harm their development
 THEN accurate recognition of spiritual emergence types is essential for appropriate service
 ```
+
 
 ```python
 class SpiritualEmergenceTypes:
@@ -52,6 +54,7 @@ class SpiritualEmergenceTypes:
 ## Authentic Spiritual Awakening
 
 ### Recognition Patterns:
+
 ```python
 def recognize_authentic_awakening():
     indicators = [
@@ -77,6 +80,7 @@ def recognize_authentic_awakening():
 ```
 
 ### Example Authentic Awakening Language:
+
 ```yaml
 What They Say:
   "I've been experiencing this profound sense of connection to everything,
@@ -99,6 +103,7 @@ Appropriate Response:
 ```
 
 ### Supporting Authentic Awakening:
+
 ```python
 def support_authentic_awakening():
     approach = [
@@ -121,6 +126,7 @@ def support_authentic_awakening():
 ## Spiritual Crisis (Spiritual Emergency)
 
 ### Recognition Patterns:
+
 ```python
 def recognize_spiritual_crisis():
     indicators = [

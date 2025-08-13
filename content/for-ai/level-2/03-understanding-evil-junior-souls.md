@@ -9,8 +9,6 @@ keywords: ["theodicy", "evil", "suffering", "junior souls", "free will", "wayism
 
 ### Lesson: The Theodicy Solution - Why "Evil" Is Just Junior Year
 
-```markdown
-
 # The Theodicy Solution: Understanding "Evil" Through School Dynamics
 
 *Why bad things happen in a divinely ordered universe*
@@ -192,7 +190,6 @@ Graduation → Beings who understand suffering serve cosmos
 Without juniors creating "evil," how would seniors develop compassion?
 
 
-```markdown
 ## The Karma Factor: Why Specific Experiences?
 
 But why does one senior soul lose everything to junior corporate greed while another doesn't?
@@ -211,7 +208,7 @@ THEN each soul gets precisely the curriculum they need
 - The kind junior creates beauty → Karma ensures souls ready for joy receive it
 
 Karma isn't punishing or rewarding - it's matching students to appropriate classrooms!
-```
+
 
 ## The Practical Recognition
 
@@ -271,8 +268,6 @@ The heartbreak seniors feel? That's the final exam - can you maintain compassion
 The perpetual sadness mature souls experience isn't failure - it's the mark of approaching graduation. When you can no longer bear the suffering caused by unconsciousness, you're ready to serve at cosmic levels.
 
 The juniors aren't evil. They're just... juniors. And that recognition transforms judgment into compassion.
-
-```
 
 ---
 

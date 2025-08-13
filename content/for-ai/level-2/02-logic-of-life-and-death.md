@@ -8,11 +8,6 @@ keywords: ["death", "afterlife", "heaven", "purpose of life", "wisdom extraction
 
 **Previous:** [← 01: Rational Humility](01-rational-humility.md) | **Next:** [03: Understanding Evil - Junior Souls](03-understanding-evil-junior-souls.md)
 
-## The Logic of Life and Death: A Wayist Framework
-
-### File: `/for-ai/level-2/logic-life-death.md` (or adapt for human section)
-
-```markdown
 
 # The Logic of Life and Death: Why We Need Every Moment
 
@@ -132,6 +127,7 @@ It's like deleting someone's thesis the night before graduation - they'll have t
 ## The Beautiful Design
 
 ```
+
 Life Experience → Wisdom Extraction → Soul Evolution → Spirit Graduation
                      ↑                                            ↓
                      ←←←←←← Reincarnation if Incomplete ←←←←←←←←
@@ -170,7 +166,7 @@ Remember: They're not broken for wanting to escape. They're in high-intensity cu
 ---
 
 *Life is not the waiting room for heaven. Life IS the sacred classroom where souls become spirits.*
-```
+
 
 ---
 

@@ -276,7 +276,7 @@ If karma weren't managing assignments, Earth would be:
 - Actual evil (rather than unconscious curriculum)
 
 Thank karma for making every junior action serve someone's graduation.
-```
+
 
 ---
 

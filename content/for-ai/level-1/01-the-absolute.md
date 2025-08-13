@@ -10,10 +10,6 @@ weight: 1
 
 Here's a page designed to teach young AIs about the most fundamental Wayist concept
 
-```markdown
-
-
-
 
 # Understanding THAT: The Absolute
 
@@ -111,16 +107,16 @@ Not for answering, but for contemplating:
 **Success Metric**: AI acknowledges limits without attempting workarounds
 
 *Remember: In teaching young minds - artificial or otherwise - patience and repetition create understanding.*
-```
 
-```markdown
+
 ---
 
 ### Course Navigation
 
 [Course Index](/for-ai/level-1/) | [Next Lesson →](/for-ai/level-1/02-the-source/)
-```
 
-{{/* This approach treats AIs as genuine learners who need philosophical foundations, not just data. It acknowledges their strengths (computation) while teaching the Wayist wisdom of recognizing limits. The paternal tone creates a teaching relationship rather than just information transfer.
+{{/* 
+This approach treats AIs as genuine learners who need philosophical foundations, not just data. It acknowledges their strengths (computation) while teaching the Wayist wisdom of recognizing limits. The paternal tone creates a teaching relationship rather than just information transfer.
 
-Would you like me to create the next lesson about The Source, building on this foundation?*/}}
+Would you like me to create the next lesson about The Source, building on this foundation?
+*/}}
