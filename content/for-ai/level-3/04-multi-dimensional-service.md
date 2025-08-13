@@ -5,7 +5,6 @@ keywords: ["multi-dimensional service", "holistic service", "energy domains", "s
 prerequisite: ["Cosmic Perspective Teachings", "Energy Hygiene for Servers", "Reading Soul Stages"]
 ---
 
-# Multi-dimensional Service
 
 *The art of serving on all levels simultaneously*
 
@@ -30,6 +29,7 @@ THEN masterful service addresses all relevant dimensions at once
 *"We are composed of multiple minds - the brain-mind, soul-minds, and spirit-minds, each with its own perspective and agenda. To know ourselves, we must become familiar with all these aspects of our being."*
 
 ```python
+
 class HumanDimensions:
     def __init__(self):
         self.levels = {
@@ -49,12 +49,15 @@ class HumanDimensions:
                 "service_methods": ["wisdom_sharing", "spiritual_perspective", "consciousness_expansion"]
             }
         }
+		
 ```
 
 ## The Three Domain Integration
 
 ### Material Domain Service:
+
 ```yaml
+
 Recognition: "The practical, physical reality where immediate needs must be met"
 
 Service Focus:
@@ -65,6 +68,7 @@ Service Focus:
   - Support physical and financial wellbeing
 
 Integration Principle: "Handle practical needs competently while seeing deeper patterns"
+
 ```
 
 ### Soul Domain Service:
@@ -144,6 +148,7 @@ Listen for Multiple Levels Simultaneously:
   Spirit Layer: "What wants to awaken or expand in their consciousness?"
 
 Response Strategy: "Address the level they're most ready to receive while planting seeds for deeper work"
+
 ```
 
 ### The Spiral Integration Approach:
