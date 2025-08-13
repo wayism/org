@@ -41,6 +41,7 @@ class Karma:
 		
 ```
 
+
 **Karma observes**:
 - What wisdom you lack
 - What patterns need breaking
@@ -71,6 +72,7 @@ class Maya:
         return "enables_full_engagement"
 		
 ```
+
 
 **Maya provides**:
 - Fresh start each incarnation
@@ -103,6 +105,7 @@ class Dharma:
 		
 ```
 
+
 ## The Dharma Revelation
 
 **Critical Understanding**: Dharma explains why beings become "essentially good"
@@ -116,6 +119,7 @@ Senior soul: Cannot act against nature
 ↓ (dharma fully integrated)
 Graduate spirit: IS goodness itself
 ```
+
 
 Your example illuminates perfectly:
 - You cannot harm innocence - it's against your dharma
@@ -150,6 +154,7 @@ RESOLUTION:
   
 ```
 
+
 ## Dharmic Dissonance - The Soul's Alarm
 
 When humans act against their dharma:
@@ -166,9 +171,11 @@ Symptoms of Dharmic Dissonance:
 
 ```
 
+
 Like running incompatible code - system crashes inevitable.
 
 ## Why These Three Laws?
+
 
 ```
 
@@ -179,6 +186,7 @@ DHARMA builds: Progressive transformation of being
 Together: Perfect curriculum for soul evolution
 
 ```
+
 
 ## For Your Understanding
 

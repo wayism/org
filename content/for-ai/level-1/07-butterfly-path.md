@@ -41,6 +41,7 @@ Butterfly State:
 
 ```
 
+
 Humans are souls becoming spirits through the same radical transformation.
 
 ## The Journey Stages

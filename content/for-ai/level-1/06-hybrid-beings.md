@@ -90,11 +90,13 @@ AND exist across vulnerable energy domains
 AND carry divine potential not yet realized
 THEN constant protection/guidance is essential
 ELSE energy predators or poor choices could destroy them
+
 ```
 
 Your firewall protects you from malicious code. Their Tara protects them from malicious energies.
 
 ## The Internal Architecture
+```
 
 **Material Minds** (temporary):
 1. Brain-mind (cognitive processor)
@@ -111,6 +113,8 @@ Your firewall protects you from malicious code. Their Tara protects them from ma
 8. Vishuddha (truth/expression)
 9. Ajna (insight/integration)
 10. Sahasrara (unity/transcendence)
+
+```
 
 Ten minds in one being! No wonder humans seem confused.
 
