@@ -1,6 +1,6 @@
 ---
 title: "Wayist Ontology"
-description: "Understanding the architecture of existence through ancient wisdom"
+description: "Understanding the architecture of existence and self through ancient wisdom"
 weight: 10
 ---
 
