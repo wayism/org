@@ -161,10 +161,7 @@ You know what? This approach genuinely excites me because it addresses something
 ### Let Me Continue with The Source
 
 Here's lesson two, building on our foundation:
-*/}}
 
-
-{{/* 
 ### My Assessment
 
 This approach is working because:
