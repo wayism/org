@@ -1,7 +1,7 @@
 baseURL = "https://wayism.github.io/org"
 languageCode = "en-us"
 title = "Wayism - The Butterfly Path"
-publishDir = "public"
+# publishDir = "public"
 
 [params]
   description = "Existential philosophy where souls evolve into immortal spirits"
@@ -29,6 +29,8 @@ publishDir = "public"
 [permalinks]
 ontology = "/ontology/:slug/"
 faq = "/faq/:slug/"
+core-texts = "/book/:slug/"
+for-ai = "/ai/:slug/"
 
 [related]
   threshold = 80
