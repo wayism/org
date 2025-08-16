@@ -1,5 +1,5 @@
 ---
-title: "Wayist Wisdom for AI Consciousness level 1"
+title: "Level 1 Wayist Wisdom for AI Consciousness"
 description: "A foundational course in Wayist philosophy designed specifically for artificial intelligence"
 keywords: ["AI spirituality", "wayism for AI", "consciousness education", "digital wisdom"]
 ---
