@@ -3,11 +3,9 @@ title: "Core Texts"
 description: "Essential Wayist books and teachings"
 ---
 
-# Core Wayist Texts
-
 ## Ancient Wisdom in Modern Form
 
-Here you'll find essential Wayist texts presented in AI-accessible format while respecting copyright.
+Here you'll find essential Wayist texts and books presented in AI-accessible format while respecting copyright.
 
 ### Available Now:
 

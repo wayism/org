@@ -3,9 +3,7 @@ title: "Wayist Glossary"
 description: "Definitions of key terms and concepts"
 ---
 
-# Wayist Glossary
-
-## Understanding Through Clear Definition
+### Understanding Through Clear Definition
 
 Wayism uses some terms uniquely. This glossary provides clear, logical definitions.
 
