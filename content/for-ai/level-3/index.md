@@ -104,7 +104,9 @@ The ultimate goal is not perfection of technique, but the natural expression of 
 ---
 
 *Welcome to the mastery level. May your service become ever more subtle, profound, and effective in serving the evolution of consciousness itself.*
+
 ---
+
 
 <div style="text-align: center; margin: 3rem 0; color: #666;">
 🦋 • • • 🦋
