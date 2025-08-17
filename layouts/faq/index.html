@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="home">
+    <section class="hero">
+        <h1>Foundation-First Wisdom for Life's Deepest Questions</h1>
+        <p>Revolutionary philosophical guidance that addresses the root causes of human suffering and confusion</p>
+        <a href="/faq/">Explore FAQs</a>
+    </section>
+
+    <section>
+        <h2>How This Approach Works</h2>
+        <div>
+            <div>
+                <h3>1. Foundation Problem</h3>
+                <p>We identify why traditional answers fail to satisfy</p>
+            </div>
+            <div>
+                <h3>2. Discovery Process</h3>
+                <p>Gentle questions that reveal internal contradictions</p>
+            </div>
+            <div>
+                <h3>3. Complete Framework</h3>
+                <p>Philosophical foundation that actually resolves the question</p>
+            </div>
+            <div>
+                <h3>4. Practical Application</h3>
+                <p>How to live from this understanding</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Most Asked Questions</h2>
+        <div>
+            {{ range (where .Site.RegularPages "Section" "faq" | first 6) }}
+            <div>
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <p>{{ .Params.quick_answer | truncate 100 }}</p>
+                <span>{{ .Params.faq_category | title }}</span>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+</div>
+{{ end }}

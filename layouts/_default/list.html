@@ -3,13 +3,11 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     
-    <ul class="page-list">
     {{ range .Pages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <p>{{ .Summary }}</p>
-        </li>
+    <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary }}</p>
+    </article>
     {{ end }}
-    </ul>
 </section>
 {{ end }}

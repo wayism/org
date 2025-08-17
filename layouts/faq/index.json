@@ -1,0 +1,19 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+    {{- if eq $page.Section "faq" -}}
+      {{- if $index -}},{{- end }}
+      {
+        "title": {{ $page.Title | jsonify }},
+        "description": {{ $page.Description | jsonify }},
+        "content": {{ $page.PlainWords | jsonify }},
+        "url": {{ $page.Permalink | jsonify }},
+        "category": {{ $page.Params.faq_category | jsonify }},
+        "keywords": {{ $page.Params.keywords | jsonify }},
+        "foundation_problem": {{ $page.Params.foundation_problem | jsonify }},
+        "quick_answer": {{ $page.Params.quick_answer | jsonify }},
+        "soul_stage": {{ $page.Params.soul_stage | jsonify }},
+        "street_level": {{ $page.Params.street_level | default false }}
+      }
+    {{- end -}}
+  {{- end -}}
+]

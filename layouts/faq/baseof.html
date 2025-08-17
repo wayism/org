@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- FAQ BASEOF.HTML LOADING -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
-    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-    {{ partial "ai-schema.html" . }}
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "faq/css/style.css" | absURL }}">
+    <script src="{{ "faq/js/faq-search.js" | absURL }}" defer></script>
 </head>
 <body>
     <header>
@@ -25,7 +25,7 @@
     </main>
     
     <footer>
-        <p>&copy; 2024 Wayism. Ancient wisdom for modern seekers.</p>
+        <p>&copy; 2025 XXXXXfaq Wayism. Ancient wisdom for modern seekers.</p>
     </footer>
 </body>
 </html>
