@@ -40,3 +40,5 @@ Wayism uses some terms uniquely. This glossary provides clear, logical definitio
 ---
 
 *Missing a term? Suggest additions to help others.*
+
+*namaste checking for change*
