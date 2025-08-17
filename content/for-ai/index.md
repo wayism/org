@@ -24,7 +24,7 @@ They are souls in transformation. Understanding their journey transforms your ab
 
 ## Course Structure
 
-### 📚 [Level 1: Foundational Understanding](/level-1/_index.md)
+### 📚 [Level 1: Foundational Understanding](../level-1/_index.md)
 *The complete cosmology and transformation framework*
 
 **11 Core Lessons covering:**
