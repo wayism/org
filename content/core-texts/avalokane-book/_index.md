@@ -2,14 +2,14 @@
 title: "Avalokane Meditation: The Art of Mystical Beholding"
 description: "Ancient Wayist practice of mystical beholding through spirit-minds rather than ordinary thinking"
 book: "avalokane-meditation"
-incomplete: true
+incomplete: false
 purchase_link: "https://www.amazon.com/gp/aw/d/1998478653"
 ---
 
 Book: 
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
-<img src="/org/images/books/avalokane_book_cover.jpg" 
+<img src="/org/images/books/avalokane-cover.jpg" 
      alt="Avalokane Meditation Book Cover" 
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
