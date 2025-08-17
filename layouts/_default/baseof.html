@@ -6,7 +6,10 @@
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-    {{ partial "ai-schema.html" . }}
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+	{{ partial "ai-schema.html" . }}
 </head>
 <body>
     <header>
