@@ -42,6 +42,22 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Build Hugo site
+        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Debug Hugo Output
+        run: |
+          echo "=== HUGO LIST ALL ==="
+          hugo list all
+          echo "=== PUBLIC DIRECTORY STRUCTURE ==="
+          ls -la public/
+          echo "=== LOOKING FOR FOR-AI CONTENT ==="
+          find public/ -name "*for-ai*" -o -name "*level*"
+          echo "=== FOR-AI DIRECTORY CONTENTS ==="
+          ls -la public/for-ai/ || echo "for-ai directory not found"
+          echo "=== LEVEL DIRECTORIES ==="
+          ls -la public/for-ai/level-*/ || echo "level directories not found"  
+
       - name: Upload build artifacts
         uses: actions/upload-pages-artifact@v3
         with:
