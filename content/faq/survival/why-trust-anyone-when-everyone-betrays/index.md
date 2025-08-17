@@ -28,7 +28,6 @@ street_level: true
 life_situation_tags: ["trust issues", "relationship trauma", "betrayal recovery", "emotional survival", "family dysfunction"]
 ---
 
-# Why Should I Trust Anyone When Everyone Betrays Me?
 
 ## The Foundation Problem
 
@@ -43,6 +42,7 @@ life_situation_tags: ["trust issues", "relationship trauma", "betrayal recovery"
 **Foundation Offering:** *"What if betrayal tells you about their developmental stage, not about whether trust itself is possible? What if your painful experiences taught you to read people - which is advanced survival intelligence?"*
 
 ---
+
 
 ## The Wayist Foundation (Survival-Tested Truth)
 
@@ -77,6 +77,7 @@ class JuniorSoul:
 **Betrayal pattern:** Won't betray maliciously, but unreliable due to inner chaos
 **How to work with them:** Emotional support, philosophical discussions, patience with inconsistency
 
+
 ```python
 class AwakeningSoul:
     def __init__(self):
@@ -85,6 +86,7 @@ class AwakeningSoul:
         self.trust_level = "emotional_sharing_okay"
         self.will_betray_if = "they_betray_themselves_first"
 ```
+
 
 #### Senior Soul Indicators (Trust Level: CAN HANDLE YOUR REAL STORY)
 **What they prioritize:** Service to others, wisdom, genuine connection
@@ -101,6 +103,7 @@ class SeniorSoul:
         self.trust_level = "life_and_death_reliable"
         self.will_betray_if = "never_if_relationship_is_real"
 ```
+
 
 ### Your Betrayal Education Was Advanced Training
 
@@ -162,6 +165,7 @@ class SeniorSoul:
 
 ### The Strategic Trust Decision Tree
 
+
 ```python
 def assess_trust_level(person):
     if person.shows_service_orientation() and person.consistent_under_pressure():
@@ -179,6 +183,7 @@ def assess_trust_level(person):
 ```
 
 ---
+
 
 ## Healing Your Trust Capacity
 
@@ -202,6 +207,7 @@ def assess_trust_level(person):
 
 ---
 
+
 ## The Revolutionary Recognition
 
 ### What This Framework Reveals
@@ -223,6 +229,7 @@ def assess_trust_level(person):
 
 ---
 
+
 ## Common Follow-Up Questions
 
 **Q: What if I never find trustworthy people?**  
@@ -238,6 +245,7 @@ A: That's information, not failure. Adjust their trust level appropriately and a
 A: Not only okay - it's wisdom. One-size-fits-all trust gets you betrayed.
 
 ---
+
 
 ## Integration Practices
 
@@ -258,10 +266,11 @@ A: Not only okay - it's wisdom. One-size-fits-all trust gets you betrayed.
 
 ---
 
+
 *Trust isn't dead - it just requires intelligence now. Your painful experiences taught you to trust strategically rather than blindly. This is wisdom, not damage.*
 
 **The goal isn't to trust everyone. The goal is to identify the rare individuals worthy of deep trust and build unshakeable relationships with them.**
 
 Your betrayal curriculum is complete. Your discernment graduation has prepared you to recognize genuine loyalty when it appears.
 
-*namaste*
+

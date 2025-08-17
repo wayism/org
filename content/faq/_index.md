@@ -4,7 +4,7 @@ description: "Foundation-first guidance for life's deepest questions"
 type: "faq"
 ---
 
-## Wayist FAQ - XXXX Foundation-First Guidance
+## Wayist FAQ - Foundation-First Guidance
 
 Welcome to revolutionary philosophical guidance that cuts to the heart of human existence. These aren't just answers - they're complete frameworks that address the foundational problems underlying your questions.
 
