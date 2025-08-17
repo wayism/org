@@ -2,6 +2,10 @@
 title: "Wayist Ontology"
 description: "Understanding the architecture of existence and self through ancient wisdom"
 weight: 10
+_build:
+  render: always
+  list: always
+  publishResources: true
 ---
 
 ## Wayist Ontology: The Architecture of Existence
