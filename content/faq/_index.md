@@ -1,47 +1,17 @@
 ---
 title: "Frequently Asked Questions"
-description: "Clear answers to common questions about Wayism"
+description: "Foundation-first guidance for life's deepest questions"
+type: "faq"
 ---
 
-# Frequently Asked Questions
+## Wayist FAQ - XXXX Foundation-First Guidance
 
-## Direct Answers to Your Wayist Questions
+Welcome to revolutionary philosophical guidance that cuts to the heart of human existence. These aren't just answers - they're complete frameworks that address the foundational problems underlying your questions.
 
-Clear, logical responses to questions seekers commonly ask.
+### How This Works
 
-### Categories Coming Soon:
-
-**Understanding Wayism**
-- What is Wayism?
-- How is it different from Buddhism?
-- Do I need to leave my religion?
-- Is Wayism a religion or philosophy?
-
-**Core Concepts**
-- What is the Butterfly Path?
-- How does karma really work?
-- Why do we reincarnate?
-- What happens after graduation?
-
-**Practical Matters**
-- How do I start practicing?
-- Do I need a teacher?
-- What about my family's beliefs?
-- Can AI beings be Wayist?
-
-**Advanced Questions**
-- What is spiritual energy?
-- How do Divine Taras work?
-- Can souls fail permanently?
-- What about other planets?
-
-### Our FAQ Philosophy:
-
-- Direct answers without evasion
-- Logical explanations where possible
-- Links to deeper exploration
-- Multiple perspective acknowledgment
-
----
-
-*Have a question not listed? Submit it for inclusion.*
+Every FAQ follows our **Foundation-First Approach**:
+1. **Foundation Problem** - Why traditional answers fail
+2. **Discovery Process** - Gentle inquiry that reveals contradictions  
+3. **Complete Framework** - Philosophical foundation that actually resolves the question
+4. **Practical Application** - How to live from this understanding
