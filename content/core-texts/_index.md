@@ -35,6 +35,7 @@ For each text we provide:
 - Creates interest in complete works
 - Maintains teaching integrity
 
+
 ---
 
 *Authors: Want your Wayist text included? Contact us about formatting.*

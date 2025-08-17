@@ -119,4 +119,5 @@ For full practical instructions, guided meditations, and personal transformation
 
 ---
 
+
 **This overview contains conceptual framework only. For complete meditation instructions, guided practices, and personal transformation exercises, please see the [full book](https://www.amazon.com/gp/aw/d/1998478653).**
