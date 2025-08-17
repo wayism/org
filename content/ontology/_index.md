@@ -118,9 +118,13 @@ This ontology is not mere philosophy but a practical map of reality. Each concep
 
 **Start with**: [THAT - The Absolute](/ontology/absolute/)
 
+
 **Or explore specific concepts**:
 
+
 {{< concept-grid >}}
+
+
 
 ---
 
