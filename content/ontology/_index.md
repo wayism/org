@@ -126,8 +126,7 @@ This ontology is not mere philosophy but a practical map of reality. Each concep
 **Or explore specific concepts**:
 
 
-
-
+{{< concept-grid >}}
 
 
 ---
