@@ -1,8 +1,8 @@
 ---
-title: "Coming Soon"
+title: "The Absolute"
 description: "This section is under construction"
 draft: false
-placeholder: true
+placeholder: false
 ---
 
 # Coming Soon

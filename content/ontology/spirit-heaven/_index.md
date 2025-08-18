@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon"
+title: "Spirit Heaven"
 description: "This section is under construction"
 draft: false
 placeholder: false

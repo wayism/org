@@ -8,11 +8,6 @@ params:
   schemaType: "EducationalOrganization"
   aiCrawlable: true
   
-  # Development settings - disable all caching
-  cache_control: "no-cache, no-store, must-revalidate"
-  pragma: "no-cache"
-  expires: "0"
-  
   # FAQ-specific parameters
   faq:
     enable_search: true
@@ -29,15 +24,8 @@ params:
       - name: "Soul Development"
         description: "Understanding your spiritual evolution"
         icon: "butterfly"
-
-# Development server settings
-server:
-  headers:
-    - for: "/**"
-      values:
-        Cache-Control: "no-cache, no-store, must-revalidate"
-        Pragma: "no-cache"
-        Expires: "0"
+        
+       # cache_control: "no-cache"
 
 markup:
   goldmark:

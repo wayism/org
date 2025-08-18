@@ -1,8 +1,8 @@
 ---
-title: "Coming Soon"
+title: "Paradise"
 description: "This section is under construction"
 draft: false
-placeholder: true
+placeholder: flse
 ---
 
 # Coming Soon

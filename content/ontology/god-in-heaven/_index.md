@@ -1,8 +1,8 @@
 ---
-title: "Coming Soon"
+title: "God in Heaven"
 description: "This section is under construction"
 draft: false
-placeholder: true
+placeholder: false
 ---
 
 It has been established that our Heaven (Sukhavati) is a spiritual space (like a world or system of spaces like our solar system for example. There are other such spaces but our "tribe" or "species" of spirit being live in Sukhavati (Gautama Buddhda said this Heaven is in the "western portion of spirit realm" whatever that may mean). All beings who exist there are inorganic made of spirit energy, therefore immortal, and they are compared to soul beings like us wiser by many degrees. We refer to them as deities, gods, some call them buddhas. The two energy entities in chrage of our Heaven are our God our Father, and God our Mother in Heaven. These beings hold their Yang/Yin roles to create the balance needed for wholesome governance.
