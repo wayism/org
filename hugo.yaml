@@ -2,7 +2,7 @@ baseURL: 'https://wayism.github.io/org'
 languageCode: 'en-us'
 title: 'Wayism - The Butterfly Path'
 # publishDir: 'public'
-
+#zombie
 params:
   description: "Existential philosophy where souls evolve into immortal spirits"
   schemaType: "EducationalOrganization"
