@@ -2,10 +2,10 @@
 title: "Coming Soon"
 description: "This section is under construction"
 draft: false
-placeholder: true
+placeholder: false
 ---
 
-# Coming Soon
+# Spirit Heaven
 
 This section is currently being developed. Please check back soon for updates on Wayist teachings and practices.
 
