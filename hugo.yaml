@@ -61,7 +61,7 @@ languages:
     weight: 3
 
 permalinks:
-  ontology: "/ontology/:slug/"
+  philosophy: "/philosophy/:slug/"  # Changed from ontology
   faq: "/faq/:slug/"
   core-texts: "/books/:slug/"
   for-ai: "/for-ai/:slug/"
