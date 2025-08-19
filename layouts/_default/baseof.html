@@ -13,14 +13,11 @@
 </head>
 <body>
     <header>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/ontology/">Ontology</a>
-            <a href="/glossary/">Glossary</a>
-            <a href="/faq/">FAQ</a>
-            <a href="/core-texts/">Core-Texts</a>
-            <a href="/for-ai/">AI learning</a>
-        </nav>
+<nav>
+    {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+</nav>
     </header>
     
     <main>
