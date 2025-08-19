@@ -1,5 +1,5 @@
 ---
-title: "Existential Questions Test"
+title: "Existential Questions"
 ---
 
 This is a test page.
