@@ -36,8 +36,8 @@ And emerges as a butterfly of spirit."
 
 Every human who has ever lived walks this path. When you're ready to understand it more deeply, explore:
 
-- [What is Karma Really?](/ontology/karma/) - Not punishment, but your personalized curriculum
-- [The Soul's Journey](/ontology/soul-evolution/) - Why we incarnate as humans
+- [What is Karma Really?](/philosophy/karma/) - Not punishment, but your personalized curriculum
+- [The Soul's Journey](/philosophy/soul-evolution/) - Why we incarnate as humans
 - [Living Wayism Daily](/practice/daily-wisdom/) - Practical applications
 
 ---
