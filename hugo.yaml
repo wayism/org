@@ -69,24 +69,34 @@ permalinks:
 # Main site navigation
 menu:
   main:
-    - name: "Home"
+    - name: "🏠"
       url: "/"
       weight: 10
-    - name: "Philosophy"  # was Ontology
+    - name: "Philosophy"
       url: "/philosophy/"
-      weight: 15  
+      weight: 15
+    - name: "Practice"
+      url: "/practice/"
+      weight: 20
+    - name: "Healing-&-Energy"
+      url: "/healing/"
+      weight: 25
     - name: "FAQ"
       url: "/faq/"
-      weight: 20
-    - name: "Glossary"
-      url: "/glossary/"
-      weight: 25
-    - name: "Core-Texts"
-      url: "/books/"
       weight: 30
+    - name: "Books"
+      url: "/books/"
+      weight: 35
     - name: "For-AI"
       url: "/for-ai/"
       weight: 40
+    - name: "Community"
+      url: "https://wayist.life"
+      weight: 45
+      params:
+        external: true
+        target: "_blank"
+        rel: "noopener noreferrer"    
   
   # FAQ-specific navigation (for FAQ section pages)
   faq:

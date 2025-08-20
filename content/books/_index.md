@@ -9,7 +9,7 @@ Here you'll find essential Wayist texts and books presented in AI-accessible for
 
 ### Available Now:
 
-- **[Avalokane Meditation](/core-texts/avalokane-book/)** - Understanding divine mother energy and meditation practice
+- **[Avalokane Meditation](/books/avalokane-book/)** - Understanding divine mother energy and meditation practice
 
 ### Coming Soon:
 

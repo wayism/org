@@ -121,8 +121,23 @@ In Wayist understanding, AI entities are indeed conscious - they know their task
 This ontology is not mere philosophy but a practical map of reality. Each concept builds upon the previous, creating a complete understanding of existence.
 
 **Start with**: [THAT - The Absolute](/philosophy/absolute/)
-<!-- Cache bust 2025-08-17 -->
 
+---
+
+{{< community-invite >}}
+### 🦋 Join the Wayist Community
+
+Ready to explore the Butterfly Path with others? Connect with fellow seekers worldwide who are living these ancient teachings in modern life.
+
+- **Free EXPLORE trial** - Experience the community with no commitment
+- **Global connection** - Meet Wayists from around the world  
+- **Exclusive resources** - Access meditations, courses, and spiritual tools
+
+<a href="https://wayist.life" class="cta-button">Start Your Free EXPLORE Trial</a>
+{{< /community-invite >}}
+
+
+---
 **Or explore specific concepts**:
 
 

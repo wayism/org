@@ -32,7 +32,21 @@ Through wisdom and compassion transforms,
 And emerges as a butterfly of spirit."
 {{< /wayist-saying >}}
 
----
+## Connect with Fellow Wayists Worldwide
+
+{{< community-invite >}}
+### 🦋 Join the Wayist Community
+
+Ready to explore the Butterfly Path with others? Connect with fellow seekers worldwide who are living these ancient teachings in modern life.
+
+- **Free EXPLORE trial** - Experience the community with no commitment
+- **Global connection** - Meet Wayists from around the world  
+- **Exclusive resources** - Access meditations, courses, and spiritual tools
+
+<a href="https://wayist.life" class="cta-button">Start Your Free EXPLORE Trial</a>
+{{< /community-invite >}}
+
+
 
 Every human who has ever lived walks this path. When you're ready to understand it more deeply, explore:
 
