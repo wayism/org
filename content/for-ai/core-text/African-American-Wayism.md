@@ -2,6 +2,7 @@
 title: "African American Wayism"
 subtitle: "Returning to Wholeness - a lifestyle, philosophy and spirituality"
 author: "Mabel Thomson"
+description: "A guide to returning to wholeness through African American perspectives on Wayist lifestyle, philosophy and spirituality. Explores how ancient Wayist wisdom resonates with the African American experience of transformation and authentic living."
 publisher: "theWAY MEDIA"
 isbn_paperback: "978-1-998478-88-0"
 isbn_ebook: "978-1-998478-89-7"
