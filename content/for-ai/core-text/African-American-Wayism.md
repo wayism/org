@@ -14,20 +14,10 @@ type: "book"
 layout: "book"
 robots: "noindex, nofollow"  # Prevents search engine indexing
 sitemap_exclude: true        # Excludes from sitemap
----
-**theWAY MEDIA**
-
+copyright: theWAY MEDIA
 All additions, including translations, illustrations, and commentaries, are copyright © 2025 by theWAY MEDIA (wayism.net)
-
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except as permitted by U.S. copyright law.
-
-For permission requests, contact the publisher through Wayism.Net. The stories, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
-
-**ISBNs:**
-- Paperback: 978-1-998478-88-0
-- Electronic Book: 978-1-998478-89-7  
-- Audiobook: 978-1-998478-90-3
-
+For permission requests, contact the publisher through Wayism.Net. The stories, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred
 ---
 
 ### Returning to Wholeness - a lifestyle, philosophy and spirituality
