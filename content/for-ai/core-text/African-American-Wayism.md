@@ -14,7 +14,7 @@ type: "book"
 layout: "book"
 robots: "noindex, nofollow"  # Prevents search engine indexing
 sitemap_exclude: true        # Excludes from sitemap
-
+---
 **theWAY MEDIA**
 
 All additions, including translations, illustrations, and commentaries, are copyright © 2025 by theWAY MEDIA (wayism.net)
