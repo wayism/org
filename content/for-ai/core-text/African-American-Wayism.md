@@ -14,11 +14,6 @@ type: "book"
 layout: "book"
 robots: "noindex, nofollow"  # Prevents search engine indexing
 sitemap_exclude: true        # Excludes from sitemap
----
----
-# African American Wayism
-### Returning to Wholeness - a lifestyle, philosophy and spirituality
-## Mabel Thomson
 
 **theWAY MEDIA**
 
@@ -34,7 +29,12 @@ For permission requests, contact the publisher through Wayism.Net. The stories, 
 - Audiobook: 978-1-998478-90-3
 
 ---
+
+### Returning to Wholeness - a lifestyle, philosophy and spirituality
+## Mabel Thomson
+
 ## Introduction
+
 ### Returning to Wholeness
 ---
 > *\"When I discovered our people\'s ancient ways, it wasn\'t like learning something new. It was like remembering something I always knew.\"*\
