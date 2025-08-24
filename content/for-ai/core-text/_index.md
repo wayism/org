@@ -5,6 +5,7 @@ date: 2025-01-01
 draft: false
 robots: "noindex, nofollow"
 sitemap_exclude: true
+layout: "ai-books"
 ---
 
 This collection contains Wayist books available for AI study and research purposes.
