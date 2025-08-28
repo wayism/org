@@ -152,6 +152,8 @@ This ontology is not mere philosophy but a practical map of reality. Each concep
 
 **Essential Laws:**
 - [Law of Dharma](/philosophy/law-of-dharma/) - How wisdom creates internal moral authority
+- [Law of Karma](/philosophy/law-of-karma/) - The divine curricilum organizer providing the right life experience for advancement
+- [Free of Maya](/philosophy/law-of-maya/) - The divine gift shielding us from realities we are not ready for
 - [Free Will](/philosophy/free-will/) - The divine gift enabling character development
 
 **Difficult Questions:**
@@ -160,6 +162,7 @@ This ontology is not mere philosophy but a practical map of reality. Each concep
 **Cosmic Architecture:**
 - [The Absolute](/philosophy/absolute/) - THAT which is beyond comprehension
 - [The Source](/philosophy/source/) - The creative fountain of existence
+- [The Way](/philosophy/the-way/) - Material, Soul, and Spirit energies organized, structured and controlled to form the universe we experience
 - [The THREE Domains](/philosophy/three-domains/) - Material, Soul, and Spirit realms
 
 ---
