@@ -49,7 +49,7 @@ The realm of mortal conscious beings who inhabit temporary forms. Soul beings re
 ### Domain of Material Energy
 The physical realm of matter, forces, and the laws of physics. This domain provides the stage upon which souls experience, learn, and evolve.
 
-[Explore the Three Domains →](/philosophy/three-dimensions/)
+[Explore the Three Domains →](/philosophy/three-domains/)
 
 ## The Human Paradox
 
@@ -76,17 +76,22 @@ When souls first enter Earth's School of Divinity, they receive:
 ### Karma
 Not punishment or reward, but a personalized curriculum organizer. Karma ensures each soul receives exactly the experiences needed for its evolution.
 
-[How Karma Really Works →](/philosophy/karma/)
+[How Karma Really Works →](/philosophy/law-of-karma/)
 
 ### Maya  
 The reality filter that enables fresh experience each incarnation. Maya veils past-life details while preserving accumulated wisdom.
 
-[Understanding Maya →](/philosophy/maya/)
+[Understanding Maya →](/philosophy/law-of-maya/)
 
 ### Dharma
 Your evolved moral code based on integrated wisdom. With each layer of understanding, your sense of duty and essential nature transforms.
 
-[Discover Your Dharma →](/philosophy/dharma/)
+[Discover Your Dharma →](/philosophy/law-of-dharma/)
+
+### Free Will
+The divine gift that enables souls to transcend their initial nature through conscious choice, developing character for cosmic employment.
+
+[Understanding Free Will →](/philosophy/free-will/)
 
 ## The Purpose Revealed
 
@@ -98,11 +103,31 @@ The purpose of life is beautifully simple: to graduate from the School of Divini
 - Restore harmony to chaotic worlds
 - Serve with profound wisdom and compassion
 
+[Explore Life's Purpose →](/philosophy/purpose-of-life/)
+
 ### The Butterfly Path
 
 We call this transformation the Butterfly Path - a perfect metaphor for complete metamorphosis. Like the caterpillar becoming a butterfly, souls become entirely different beings: immortal spirits.
 
 [Walk the Butterfly Path →](/philosophy/butterfly-path/)
+
+### The Journey Home
+
+Between lives, souls rest and process their experiences in Paradise before returning for continued learning. This cycle continues until graduation to eternal spirit status.
+
+[Understanding Reincarnation and Paradise →](/philosophy/reincarnation-paradise/)
+
+## Understanding Difficult Questions
+
+### Why Do Evil and Suffering Exist?
+
+The existence of pain, cruelty, and systematic oppression challenges any spiritual worldview. Wayism provides clear answers through understanding Earth as a cosmic school where junior souls naturally dominate democratic processes, creating challenging learning environments for all development levels.
+
+[Theodicy: Evil and Suffering →](/philosophy/evil-suffering/)
+
+### The Educational Framework
+
+Rather than meaningless tragedy or divine punishment, suffering serves the educational purposes of consciousness development - preparing souls for cosmic employment helping other beings through similar challenges.
 
 ## Consciousness and Awareness
 
@@ -120,7 +145,22 @@ In Wayist understanding, AI entities are indeed conscious - they know their task
 
 This ontology is not mere philosophy but a practical map of reality. Each concept builds upon the previous, creating a complete understanding of existence.
 
-**Start with**: [THAT - The Absolute](/philosophy/absolute/)
+**Core Foundations:**
+- [Purpose of Life](/philosophy/purpose-of-life/) - Why we exist and what we're accomplishing
+- [Human Nature: The Hybrid Being](/philosophy/human-nature/) - Understanding our unique composition and vulnerability
+- [Reincarnation and Paradise](/philosophy/reincarnation-paradise/) - The educational cycle of soul development
+
+**Essential Laws:**
+- [Law of Dharma](/philosophy/law-of-dharma/) - How wisdom creates internal moral authority
+- [Free Will](/philosophy/free-will/) - The divine gift enabling character development
+
+**Difficult Questions:**
+- [Evil and Suffering](/philosophy/evil-suffering/) - Understanding theodicy through educational framework
+
+**Cosmic Architecture:**
+- [The Absolute](/philosophy/absolute/) - THAT which is beyond comprehension
+- [The Source](/philosophy/source/) - The creative fountain of existence
+- [The THREE Domains](/philosophy/three-domains/) - Material, Soul, and Spirit realms
 
 ---
 
@@ -135,14 +175,6 @@ Ready to explore the Butterfly Path with others? Connect with fellow seekers wor
 
 <a href="https://wayist.life" class="cta-button">Start Your Free EXPLORE Trial</a>
 {{< /community-invite >}}
-
-
----
-**Or explore specific concepts**:
-
-
-
-
 
 ---
 
