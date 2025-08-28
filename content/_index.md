@@ -1,60 +1,61 @@
 ---
-title: "Philosophy"
-description: "Understanding reality through Wayist wisdom - from the Absolute to daily practice"
+title: "Wayism: The Butterfly Path"
+description: "Ancient wisdom teaching that all humans are on a journey of soul evolution"
+keywords: ["wayism", "wayist", "butterfly path", "soul evolution", "spiritual philosophy"]
 ---
 
-# Wayist Philosophy
+<div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
+<img src="/images/general/theWAY-Wayism-logo-812px.jpg" 
+     alt="Wayism the Butterfly Path" 
+     style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</div>
 
-## Understanding Reality Through Clear Logic
+## Welcome to Wayism
 
-Wayism approaches the great questions systematically, building understanding step by step from fundamental principles to practical application.
+### What is Wayism?
 
-{{< concept-grid >}}
+Wayism is an ancient existential philosophy recognizing that **all humans** are on a sacred journey. We call this the *Butterfly Path* because, like a caterpillar transforms into a butterfly, human souls evolve into immortal spiritual beings.
 
-## Our Philosophical Approach
+## Core Understanding
 
-### **Logical Progression**
-We begin with what cannot be known (The Absolute), move through what can be understood (The Source, theWAY), and arrive at practical wisdom for daily life.
+In Wayism, we understand three fundamental truths:
 
-### **Clear Relationships**  
-Each concept builds on previous understanding. The Three Domains explain where we exist, Karma explains how we learn, Maya explains why we forget, and the Butterfly Path explains where we're going.
+1. **Life has Purpose** - Every human experience serves soul evolution
+2. **The Path is the Destination** - Growth happens through living, not despite it  
+3. **Wisdom Transforms** - Self-reflection converts experience into soul evolution
 
-### **Practical Application**
-Philosophy serves life, not academic abstraction. These concepts provide frameworks for understanding your experiences and making wise choices.
+### The Journey Ahead
 
----
+{{< wayist-saying >}}
+"The soul arrives as a caterpillar,
+Through wisdom and compassion transforms,
+And emerges as a butterfly of spirit."
+{{< /wayist-saying >}}
 
-## Study Suggestions
+## Connect with Fellow Wayists Worldwide
 
-### **For Beginners:**
-1. Start with [The Absolute](/philosophy/absolute/) to understand the foundation
-2. Progress through [The Source](/philosophy/source/) and [theWAY](/philosophy/the-way/)  
-3. Explore [Purpose of Life](/philosophy/purpose/) to see why this matters
+{{< community-invite >}}
+### 🦋 Join the Wayist Community
 
-### **For Deeper Understanding:**
-- Read our [four-prong approach](/philosophy/about-structure/) for each concept
-- Compare [how we differ](/philosophy/vs-other-views/) from other traditions
-- Study [logical relationships](/philosophy/logical-chains/) between concepts
+Ready to explore the Butterfly Path with others? Connect with fellow seekers worldwide who are living these ancient teachings in modern life.
 
-### **For Daily Practice:**
-- Apply [Karma](/philosophy/karma/) understanding to current challenges
-- Use [Maya](/philosophy/maya/) insights for perspective on difficulties  
-- Follow [Butterfly Path](/philosophy/butterfly-path/) guidance for growth
+- **Free EXPLORE trial** - Experience the community with no commitment
+- **Global connection** - Meet Wayists from around the world  
+- **Exclusive resources** - Access meditations, courses, and spiritual tools
 
----
+<a href="https://wayist.life" class="cta-button">Start Your Free EXPLORE Trial</a>
+{{< /community-invite >}}
 
-## Why Philosophy Matters
 
-Understanding these concepts transforms how you interpret everything that happens to you. Instead of random events, you recognize:
 
-- **Purpose** in every experience
-- **Growth opportunities** in challenges  
-- **Support systems** always available
-- **Clear direction** for your development
-- **Meaning** in all relationships
+Every human who has ever lived walks this path. When you're ready to understand it more deeply, explore:
 
-**The Goal**: Not academic knowledge but lived wisdom that brings peace, purpose, and joy to daily existence.
+- [What is Karma Really?](/philosophy/karma/) - Not punishment, but your personalized curriculum
+- [The Soul's Journey](/philosophy/soul-evolution/) - Why we incarnate as humans
+- [Living Wayism Daily](/practice/daily-wisdom/) - Practical applications
 
 ---
 
-*Ready to explore? Each concept links to comprehensive explanations with examples, logical frameworks, and comparisons with other traditions.*
+*Begin where you are. The path reveals itself to those who walk it.*
+
+
