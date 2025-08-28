@@ -6,7 +6,7 @@ description: "Definitions of key terms and concepts in Wayist philosophy and pra
 ## Understanding Through Clear Definition
 
 Wayism uses some terms uniquely, often with deeper or different meanings than found in other traditions. This glossary provides clear, logical definitions to support your understanding and practice.
-{{< concept-grid >}}
+
 ---
 
 ## Core Framework Terms
