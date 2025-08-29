@@ -10,9 +10,6 @@ body {
     line-height: 1.6;
     color: #333;
     background: #fafafa;
-    max-width: 900px;  /* Add this line */
-    margin: 0 auto;    /* Add this line */
-    padding: 20px;     /* Add this line */
 }
 
 /* Header and navigation */
@@ -55,8 +52,8 @@ nav a:hover {
 
 /* Main content */
 main {
-    /* Remove max-width: 1200px; */
-    /* Remove margin: 0 auto; */
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 2rem;
     min-height: calc(100vh - 140px);
 }

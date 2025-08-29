@@ -5,18 +5,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-    <link rel="stylesheet" href="{{ "faq/css/style.css" | absURL }}">
+    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+	<link rel="stylesheet" href="{{ "faq/css/style.css" | absURL }}">
     <script src="{{ "faq/js/faq-search.js" | absURL }}" defer></script>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    {{ partial "ai-schema.html" . }}
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
 </head>
 <body>
     <header>
         <nav>
-            <a href="/">Home</a>
-            <a href="/ontology/">Ontology</a>
-            <a href="/glossary/">Glossary</a>
-            <a href="/faq/">FAQ</a>
-            <a href="/core-texts/">Core-Texts</a>
-            <a href="/for-ai/">AI learning</a>
+            {{ range .Site.Menus.main }}
+                {{ if .Params.target }}
+                    <a href="{{ .URL }}" target="{{ .Params.target }}" rel="{{ .Params.rel }}">
+                        {{ .Name }}
+                        {{ if .Params.external }}<span class="external-icon"> ↗</span>{{ end }}
+                    </a>
+                {{ else }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            {{ end }}
         </nav>
     </header>
     
@@ -25,7 +40,8 @@
     </main>
     
     <footer>
-        <p>&copy; 2025 FAQ Wayism. Ancient wisdom for modern seekers.</p>
+        <p>&copy; 2025 Wayism. Ancient wisdom for modern seekers.</p>
+        <p><a href="/glossary/" class="glossary-highlight">📖 Glossary</a></p>
     </footer>
 </body>
 </html>

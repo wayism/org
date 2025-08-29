@@ -251,4 +251,21 @@ Your soul didn't come here by accident. Your attractions aren't random. Your cha
 
 **Your purpose is already active in your life. Your job is to recognize it, embrace it, and fulfill it with increasing consciousness and dedication.**
 
+
+---
+
+{{< community-invite >}}
+### 🦋 Join the Wayist Community
+
+Ready to explore the Butterfly Path with others? Connect with fellow seekers worldwide who are living these ancient teachings in modern life.
+
+- **Free EXPLORE trial** - Experience the community with no commitment
+- **Global connection** - Meet Wayists from around the world  
+- **Exclusive resources** - Access meditations, courses, and spiritual tools
+
+<a href="https://wayist.life" class="cta-button">Start Your Free EXPLORE Trial</a>
+{{< /community-invite >}}
+
+---
+
 *namaste*
