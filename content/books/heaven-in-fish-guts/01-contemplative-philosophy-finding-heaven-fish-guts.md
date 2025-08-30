@@ -1,5 +1,5 @@
 ---
-title: "Finding Heaven in Fish Guts: Contemplative Philosophy"
+title: "1. Finding Heaven in Fish Guts: Contemplative Philosophy"
 description: "How divine wisdom flows through ordinary experiences"
 book: "finding-heaven-fish-guts"
 incomplete: true

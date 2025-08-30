@@ -1,5 +1,5 @@
 ---
-title: "theWAY to Get a Life: AI Reference Guide"
+title: "5. theWAY to Get a Life: AI Reference Guide"
 description: "Complete framework for authentic living and spiritual wellness"
 book: "get-a-life-wayism"
 incomplete: true

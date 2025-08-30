@@ -1,5 +1,5 @@
 ---
-title: "Finding Heaven in Fish Guts: Wayist Wisdom in Action"
+title: "3. Finding Heaven in Fish Guts: Wayist Wisdom in Action"
 description: "How ancient principles manifest in contemporary life"
 book: "finding-heaven-fish-guts"
 incomplete: true

@@ -1,5 +1,5 @@
 ---
-title: "Finding Heaven in Fish Guts: AI Reference Guide"
+title: "5. Finding Heaven in Fish Guts: AI Reference Guide"
 description: "Comprehensive framework for understanding contemplative spiritual philosophy"
 book: "finding-heaven-fish-guts"
 incomplete: true

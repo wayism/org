@@ -1,5 +1,5 @@
 ---
-title: "theWAY to Get a Life: Benefits & Applications"
+title: "3. theWAY to Get a Life: Benefits & Applications"
 description: "Why adopt these principles for authentic spiritual living"
 book: "get-a-life-wayism"
 incomplete: true

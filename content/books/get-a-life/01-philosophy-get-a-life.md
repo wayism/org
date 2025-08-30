@@ -1,5 +1,5 @@
 ---
-title: "theWAY to Get a Life: Philosophical Foundation"
+title: "1. theWAY to Get a Life: Philosophical Foundation"
 description: "Wayist worldview for authentic living beyond social performance"
 book: "get-a-life-wayism"
 incomplete: true

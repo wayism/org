@@ -1,5 +1,5 @@
 ---
-title: "Finding Heaven in Fish Guts: Poetry and Insight"
+title: "4. Finding Heaven in Fish Guts: Poetry and Insight"
 description: "Concentrated wisdom through verse and reflection"
 book: "finding-heaven-fish-guts"
 incomplete: true

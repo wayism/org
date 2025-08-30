@@ -1,5 +1,5 @@
 ---
-title: "theWAY to Get a Life: Contemplative Treasury"
+title: "4. theWAY to Get a Life: Contemplative Treasury"
 description: "Key insights and poetic wisdom for daily reflection"
 book: "get-a-life-wayism"
 incomplete: true

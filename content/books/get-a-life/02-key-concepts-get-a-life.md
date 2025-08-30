@@ -1,5 +1,5 @@
 ---
-title: "theWAY to Get a Life: Key Concepts"
+title: "2. theWAY to Get a Life: Key Concepts"
 description: "Essential understanding for authentic living and spiritual wellness"
 book: "get-a-life-wayism"
 incomplete: true

@@ -1,5 +1,5 @@
 ---
-title: "Finding Heaven in Fish Guts: Finding Wisdom in Daily Life"
+title: "2. Finding Heaven in Fish Guts: Finding Wisdom in Daily Life"
 description: "Practical approaches to contemplative living"
 book: "finding-heaven-fish-guts"
 incomplete: true
