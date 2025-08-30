@@ -2,7 +2,8 @@
 title: "6. theWAY of Divine Energies: Contemplative Treasury"
 description: "Key insights and mystical wisdom for spiritual reflection"
 book: "divine-energies-wayism"
-incomplete: true
+author: "Jean Prieur du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505/"
 weight: 60
 ---

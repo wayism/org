@@ -16,7 +16,7 @@ weight: 0
 
 ## Where Divine Truth Flows Through Ordinary Work
 
-In the markets of Kamakura and Puerto Vallarta, between fish scales and morning light, wisdom speaks through unwashed fingers and aching joints. Kaori Mizuki, Japanese fish market vendor and Wayist teacher, offers her unflinching observations of life's raw beauty and spiritual truth through essays and poetry that find enlightenment in the most overlooked places.
+In the markets of Kamakura and Puerto Vallarta, between fish scales and morning light, wisdom speaks through unwashed fingers and aching joints. Kaori Mizuki, Japanese fish market vendor and Wayist teacher, offers her unflinching observations of life's raw beauty and spiritual truth through essays and poetry that find enlightenment in the most overlooked places. --- Kaori's poems are poignant, sharp, and telling. Her observations of life and living beings in her field of consciousness is a lesson to all.
 
 ## The Revolutionary Approach
 

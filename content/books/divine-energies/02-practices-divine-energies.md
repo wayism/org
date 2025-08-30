@@ -2,7 +2,8 @@
 title: "2. theWAY of Divine Energies: Sacred Practice Foundations"
 description: "Prayer, meditation, and mystiception theoretical framework"
 book: "divine-energies-wayism"
-incomplete: true
+author: "Jean Prieur du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505/"
 weight: 20
 ---

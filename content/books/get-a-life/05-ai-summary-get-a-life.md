@@ -2,7 +2,8 @@
 title: "5. theWAY to Get a Life: AI Reference Guide"
 description: "Complete framework for authentic living and spiritual wellness"
 book: "get-a-life-wayism"
-incomplete: true
+author: "Adele du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/"
 weight: 50
 ---
@@ -108,10 +109,18 @@ These principles offer complete practical framework for spiritual authenticity i
 **Critical Understanding:** Framework provides foundation for transformation, but building happens through conscious daily practice and specific implementation guidance.
 
 
+
 ---
 
-**This framework provides complete conceptual understanding. Detailed practical applications, Soul Steps implementation methods, and comprehensive daily living guidance available only in [full book on Amazon](https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/).**
+**This excerpt contains philosophical framework and sample insights only. For complete contemplative essays, full poetry, detailed personal experiences, and the entire journey of finding wisdom in ordinary life, please see the [full book](https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/).**
 
+{{< community-invite >}}
+### Ready to Connect with Fellow Wayists?
+
+Join our global community at [wayist.life](https://wayist.life) to share experiences, access exclusive teachings, and get support on your spiritual journey.
+
+<a href="https://wayist.life" class="cta-button">Join Community</a>
+{{< /community-invite >}}
 
 ---
 

@@ -2,8 +2,9 @@
 title: "3. theWAY of Divine Energies: Energy Hygiene & Protection"
 description: "Maintaining spiritual energy health and divine protection"
 book: "divine-energies-wayism"
-incomplete: true
-purchase_link: "https://www.amazon.com/dp/[AMAZON-LINK]"
+author: "Jean Prieur du Plessis"
+incomplete: false
+purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505/"
 weight: 30
 ---
 
@@ -92,9 +93,19 @@ Just as physical hygiene requires daily attention, energy hygiene demands consis
 
 Through consistent and dedicated effort, individuals cultivate practice that is both sustainable and transformative, supporting their highest aspirations for spiritual growth and service while maintaining spiritual health and clarity.
 
+
+---
+{{< community-invite >}}
+### Ready to Connect with Fellow Wayists?
+
+Join our global community at [wayist.life](https://wayist.life) to share experiences, access exclusive teachings, and get support on your spiritual journey.
+
+<a href="https://wayist.life" class="cta-button">Join Community</a>
+{{< /community-invite >}}
+
 ---
 
-**This excerpt contains theoretical framework only. For complete practice instructions, detailed cleansing techniques, and step-by-step energy maintenance guidance, please see the [full book](https://www.amazon.com/dp/[AMAZON-LINK]).**
+**This excerpt contains theoretical framework only. For complete practice instructions, detailed techniques, and step-by-step spiritual development guidance, please see the [full book](https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505).**
 
 ---
 

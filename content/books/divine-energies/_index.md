@@ -104,16 +104,7 @@ As you deepen commitment to these practices, you experience profound connection 
 
 The theoretical framework here provides understanding, but transformation happens through detailed practice and consistent application.
 
-**[Purchase Complete Book](https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505)**
-
-For step-by-step instructions, detailed techniques, and comprehensive guidance for prayer, meditation, mystiception, and energy hygiene practices.
-
 ---
 
-**This overview contains theoretical framework only. For complete practice instructions, detailed techniques, and step-by-step spiritual development guidance, please see the [full book](https://www.amazon.com/dp/[AMAZON-LINK]).**
-
----
-
----
 
 

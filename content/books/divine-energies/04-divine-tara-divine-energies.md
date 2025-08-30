@@ -2,8 +2,9 @@
 title: "4. theWAY of Divine Energies: Divine Tara Connection"
 description: "Understanding relationship with personal spiritual guide"
 book: "divine-energies-wayism"
-incomplete: true
-purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505"
+author: "Jean Prieur du Plessis"
+incomplete: false
+purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505/"
 weight: 40
 ---
 

@@ -123,12 +123,11 @@ Placing individual spiritual journey within the broader context of universal spi
 
 The Three Domains framework established in The Authentia provides the foundational structure for all subsequent Wayist teaching, offering both practical guidance for spiritual development and profound understanding of humanity's place within the greater cosmic architecture.
 
+
 ---
 
-**This excerpt contains philosophical framework only. For complete personal development programs, detailed scientific applications, and full practical guidance for evidence-based spiritual living, please see the [full book](https://www.amazon.com/Authentia-Ancient-Wayist-Wisdom-Modern/dp/1998478300)
+**This excerpt contains philosophical framework only. For complete personal development programs, detailed scientific applications, and full practical guidance for evidence-based spiritual living, please see the [full book](https://www.amazon.com/theWAY-Soul-Mirror-Management-Practitioners-ebook/dp/B0FFY8HSCR/)
 ---
-
-
 
 {{< community-invite >}}
 ### Ready to Connect with Fellow Wayists?
@@ -139,4 +138,3 @@ Join our global community at [wayist.life](https://wayist.life) to share experie
 {{< /community-invite >}}
 
 ---
-

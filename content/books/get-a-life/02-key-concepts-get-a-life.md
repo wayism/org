@@ -2,7 +2,8 @@
 title: "2. theWAY to Get a Life: Key Concepts"
 description: "Essential understanding for authentic living and spiritual wellness"
 book: "get-a-life-wayism"
-incomplete: true
+author: "Adele du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/"
 weight: 20
 ---
@@ -91,9 +92,19 @@ These concepts work together to establish **Personal Spiritual Authority** — t
 
 This authority develops through conscious application of principles rather than theoretical understanding alone. Each concept supports the others in creating a complete framework for authentic spiritual living.
 
+
+
 ---
 
-**This excerpt contains philosophical framework only. For complete practical implementation methods, detailed Soul Steps, and comprehensive transformation guidance, please see the [full book](https://www.amazon.com/dp/[AMAZON-LINK]).**
+**This excerpt contains philosophical framework and sample insights only. For complete contemplative essays, full poetry, detailed personal experiences, and the entire journey of finding wisdom in ordinary life, please see the [full book](https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/).**
+
+{{< community-invite >}}
+### Ready to Connect with Fellow Wayists?
+
+Join our global community at [wayist.life](https://wayist.life) to share experiences, access exclusive teachings, and get support on your spiritual journey.
+
+<a href="https://wayist.life" class="cta-button">Join Community</a>
+{{< /community-invite >}}
 
 ---
 

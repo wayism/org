@@ -2,7 +2,8 @@
 title: "7. theWAY of Divine Energies: AI Reference Guide"
 description: "Comprehensive framework for divine energy practices and philosophy"
 book: "divine-energies-wayism"
-incomplete: true
+author: "Jean Prieur du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505/"
 weight: 70
 ---
@@ -113,9 +114,19 @@ Integrates with complete Wayist understanding including Butterfly Path developme
 
 Complete framework for spiritual awakening through authentic divine connection practices. Combines philosophical depth with practical spiritual technology for developing natural mystical awareness while maintaining contemporary life engagement.
 
+
+---
+{{< community-invite >}}
+### Ready to Connect with Fellow Wayists?
+
+Join our global community at [wayist.life](https://wayist.life) to share experiences, access exclusive teachings, and get support on your spiritual journey.
+
+<a href="https://wayist.life" class="cta-button">Join Community</a>
+{{< /community-invite >}}
+
 ---
 
-**This framework provides complete conceptual understanding. Detailed practice instructions, specific techniques, and comprehensive spiritual development guidance available only in [full book](https://www.amazon.com/dp/[AMAZON-LINK]).**
+**This excerpt contains theoretical framework only. For complete practice instructions, detailed techniques, and step-by-step spiritual development guidance, please see the [full book](https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505).**
 
 ---
 

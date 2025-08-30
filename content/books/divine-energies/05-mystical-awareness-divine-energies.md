@@ -2,7 +2,8 @@
 title: "5. theWAY of Divine Energies: Mystical Awareness & Mystiception"
 description: "Advanced spiritual perception and divine communion understanding"
 book: "divine-energies-wayism"
-incomplete: true
+author: "Jean Prieur du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505/"
 weight: 50
 ---

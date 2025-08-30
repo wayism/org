@@ -88,12 +88,11 @@ The Authentia serves as more than historical document — it functions as bridge
 
 This teaching method recognizes that spiritual truth cannot be fully contained in words alone but must be experienced directly through the consciousness capable of receiving it. The Authentia provides both the framework for understanding and the method for direct spiritual communion that makes such understanding possible.
 
+
 ---
 
-**This excerpt contains philosophical framework only. For complete personal development programs, detailed scientific applications, and full practical guidance for evidence-based spiritual living, please see the [full book](https://www.amazon.com/Authentia-Ancient-Wayist-Wisdom-Modern/dp/1998478300)
+**This excerpt contains philosophical framework only. For complete personal development programs, detailed scientific applications, and full practical guidance for evidence-based spiritual living, please see the [full book](https://www.amazon.com/theWAY-Soul-Mirror-Management-Practitioners-ebook/dp/B0FFY8HSCR/)
 ---
-
-
 
 {{< community-invite >}}
 ### Ready to Connect with Fellow Wayists?
@@ -104,4 +103,3 @@ Join our global community at [wayist.life](https://wayist.life) to share experie
 {{< /community-invite >}}
 
 ---
-
