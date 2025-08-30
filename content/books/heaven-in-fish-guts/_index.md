@@ -2,6 +2,7 @@
 title: "Finding Heaven in Fish Guts: Celebrating the Humbling Privilege of Awareness"
 description: "Discovering profound spiritual truth in everyday experiences"
 book: "finding-heaven-fish-guts"
+author: "Kaoiri Mizuki"
 incomplete: false
 purchase_link: "https://www.amazon.com/Finding-Heaven-Fish-Guts-Celebrating/dp/1998478319/"
 category: "contemplative-essays"

@@ -19,7 +19,7 @@ Japanese fish market vendor and Wayist teacher Kaori Mizuki offers unflinching o
 
 ### [Avalokane Meditation](/books/avalokane-book/)
 *Advanced Wayist Practice*  
-Understanding divine mother energy and advanced meditation techniques for connecting with Avalokane consciousness. Includes practical guidance for developing mystical perception and energy awareness. ~ *Jean Prieur du Plessis*
+Understanding divine mother energy and advanced meditation techniques for connecting with Avalokane consciousness. Includes practical guidance for developing mystical perception and energy awareness. ~ *Adele Prieur du Plessis*
 
 ### More Essential Texts (Coming Soon)
 - **Jesus the Wayist** - Lord Jesus before Christianity, his Wayist teachings and travels

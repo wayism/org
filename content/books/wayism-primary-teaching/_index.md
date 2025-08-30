@@ -2,6 +2,7 @@
 title: "Primary Teaching theWAY: The Nature of Existence, Purpose of Life, and Spiritual Path"
 description: "Foundational sacred text establishing the complete philosophical framework of Wayism"
 book: "primary-teaching-theway"
+author: "Salvar Daosenhglu: Editor"
 incomplete: false
 purchase_link: "https://www.amazon.com/Primary-Teaching-theWAY-Existence-Spiritual/dp/1998478793/"
 category: "foundational-sacred-text"

@@ -2,7 +2,8 @@
 title: "theWAY to Get a Life: 11 Principles to Take Back Your Mind, Soul, and Spirit"
 description: "Practical Wayist philosophy for authentic living in a chaotic world"
 book: "get-a-life-wayism"
-incomplete: true
+author: "Adele du Plessis"
+incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/"
 weight: 0
 ---

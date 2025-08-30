@@ -2,6 +2,7 @@
 title: "theWAY of Divine Energies: Wayist Practices for Spiritual Awakening and Transformation"
 description: "Ancient practices for inner peace, wisdom, and divine connection"
 book: "divine-energies-wayism"
+author: "Jean Prieur du Plessis"
 incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505"
 weight: 0
