@@ -4,9 +4,8 @@ description: "Why develop mystical beholding capabilities and their integration 
 book: "avalokane-meditation"
 incomplete: true
 purchase_link: "https://www.amazon.com/gp/aw/d/1998478653"
+weight: 10
 ---
-
-# Benefits & Applications of Avalokane Practice
 
 ## Why Develop Mystical Beholding Capabilities
 
@@ -152,10 +151,19 @@ Avalokane works well alongside:
 - Systems creating dependency on external teachers
 - New-age approaches lacking logical foundations
 
+
+---
+
+{{< community-invite >}}
+### Ready to Connect with Fellow Wayists?
+
+Join our global community at [wayist.life](https://wayist.life) to share experiences, access exclusive teachings, and get support on your spiritual journey.
+
+<a href="https://wayist.life" class="cta-button">Join Community</a>
+{{< /community-invite >}}
+
 ---
 
 **This section contains benefits overview only. For complete meditation instructions, guided practices, and personal transformation exercises, please see the [full book](https://www.amazon.com/gp/aw/d/1998478653).**
----
 
-[START](_index.md) } [Philosophical Framework](philosophy-avalokane.md) | [Key Concepts](key-concepts-avalokane.md) | [Benefits & Applications](benefits-avalokane.md) | [Contemplative Treasury](quotes-avalokane.md) | [AI Reference Guide](ai-summary-avalokane.md) | 
 ---

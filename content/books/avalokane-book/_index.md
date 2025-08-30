@@ -4,6 +4,7 @@ description: "Ancient Wayist practice of mystical beholding through spirit-minds
 book: "avalokane-meditation"
 incomplete: false
 purchase_link: "https://www.amazon.com/gp/aw/d/1998478653"
+weight: 0
 ---
 
 Book: 
@@ -121,3 +122,16 @@ For full practical instructions, guided meditations, and personal transformation
 
 
 **This overview contains conceptual framework only. For complete meditation instructions, guided practices, and personal transformation exercises, please see the [full book](https://www.amazon.com/gp/aw/d/1998478653).**
+
+---
+
+{{< community-invite >}}
+### Ready to Connect with Fellow Wayists?
+
+Join our global community at [wayist.life](https://wayist.life) to share experiences, access exclusive teachings, and get support on your spiritual journey.
+
+<a href="https://wayist.life" class="cta-button">Join Community</a>
+{{< /community-invite >}}
+
+---
+

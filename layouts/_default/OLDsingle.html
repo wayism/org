@@ -3,11 +3,6 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     
-    <!-- Automatic Book Navigation (only shows for pages in /books/ section) -->
-    {{ if eq .Section "books" }}
-        {{ partial "smart-book-nav.html" . }}
-    {{ end }}
-    
     {{ if .Params.related }}
     <div class="related">
         <h3>Related Concepts:</h3>
