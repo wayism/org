@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/Finding-Heaven-Fish-Guts-Celebrating/dp/1998478319/"
 category: "contemplative-essays"
 weight: 0
+book_weight: 30
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/heaven-fish-guts-cover.jpg" 

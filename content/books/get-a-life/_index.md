@@ -6,6 +6,7 @@ author: "Adele du Plessis"
 incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/"
 weight: 0
+book_weight: 50
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/get-a-life-book-cover.jpg" 

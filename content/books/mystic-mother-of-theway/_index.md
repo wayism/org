@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/Mystic-Mother-theWAY-Curated-collection/dp/1998478599"
 category: "contemplative-essays"
 weight: 0
+book_weight: 31
 ---
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">

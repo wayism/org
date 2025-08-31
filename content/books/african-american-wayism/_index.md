@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/African-American-Wayism-philosophy-spirituality/dp/1998478882/"
 category: "contemplative-essays"
 weight: 0
+book_weight: 36
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/african-american-wayism-book-cover.jpg" 

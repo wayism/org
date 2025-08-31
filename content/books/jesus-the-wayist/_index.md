@@ -5,6 +5,7 @@ book: "jesus-wayist"
 incomplete: false
 purchase_link: "https://www.amazon.com/Jesus-Wayist-Teaching-Christians-Religion-ebook/dp/B0DSBH3D8K"
 weight: 0
+book_weight: 21
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/jesus-the-wayist-book-cover.jpg" 

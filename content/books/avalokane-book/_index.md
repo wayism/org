@@ -6,6 +6,7 @@ author: "Adele du Plessis"
 incomplete: false
 purchase_link: "https://www.amazon.com/gp/aw/d/1998478653"
 weight: 0
+book_weight: 4
 ---
 
 Book: 

@@ -6,6 +6,7 @@ author: "Jean Prieur du Plessis"
 incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Heart-Mind-Ancient-Teachings-ebook/dp/B0D9R6Z3RY/"
 weight: 0
+book_weight: 2
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/the-heart-mind-book-cover.jpg" 

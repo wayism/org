@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Soul-Mirror-Management-Practitioners-ebook/dp/B0FFY8HSCR/"
 category: "contemplative-essays"
 weight: 0
+book_weight: 24
 ---
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">

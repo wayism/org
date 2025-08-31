@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="books-page">
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="page-intro">{{ . }}</div>
+    {{ end }}
+  </header>
+
+  <div class="books-grid">
+    {{ range .Pages.ByParam "book_weight" }}
+      <div class="book-card">
+        <h2>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        
+        {{ with .Params.author }}
+          <p class="author">by {{ . }}</p>
+        {{ end }}
+        
+        {{ with .Params.description }}
+          <p class="description">{{ . }}</p>
+        {{ end }}
+        
+        {{ with .Params.category }}
+          <span class="category">{{ . | title }}</span>
+        {{ end }}
+        
+        {{ if .Params.purchase_link }}
+          <a href="{{ .Params.purchase_link }}" class="purchase-link" target="_blank">
+            Purchase
+          </a>
+        {{ end }}
+        
+        {{ if .Params.incomplete }}
+          <span class="incomplete-badge">In Progress</span>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

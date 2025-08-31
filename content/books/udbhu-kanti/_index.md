@@ -6,6 +6,7 @@ author: "Jean Prieur du Plessis"
 incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Udbhu-Kanti-Discovering-Perfectly-Imperfect/dp/1998478254/"
 weight: 0
+book_weight: 20
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/the-way-of-udbhu-kanti-book-cover.jpg" 

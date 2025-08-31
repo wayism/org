@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/Primary-Teaching-theWAY-Existence-Spiritual/dp/1998478793/"
 category: "foundational-sacred-text"
 weight: 0
+book_weight: 1
 ---
 Book: 
 

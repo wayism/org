@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/Child-Enki-you-are-Enlil-ebook/dp/B0DBF6TKKW/"
 category: "foundational-sacred-text"
 weight: 0
+book_weight: 6
 ---
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">

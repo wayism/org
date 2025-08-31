@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/Magadhalene-Sutras-Wayist-Collection-Iawo/dp/0987680064/"
 category: "historical-sacred-collection"
 weight: 0
+book_weight: 23
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/magadhalene-sutras-book-cover.jpg" 

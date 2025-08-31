@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/theWAY-Divine-Taras-Connect-Guide/dp/1738182835/"
 category: "contemplative-essays"
 weight: 0
+book_weight: 24
 ---
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">

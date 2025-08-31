@@ -6,6 +6,7 @@ author: "Jean Prieur du Plessis, Adele du Plessis"
 incomplete: false
 purchase_link: "https://www.amazon.com/Indian-Brothels-Divine-Guide-Jerusalem-ebook/dp/B0DVR3M6SW/"
 weight: 0
+book_weight: 22
 ---
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">

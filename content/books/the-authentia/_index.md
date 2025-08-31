@@ -7,6 +7,7 @@ author: "Salvar Daosenghlu: Editor"
 purchase_link: "https://www.amazon.com/Authentia-Ancient-Wayist-Wisdom-Modern/dp/1998478300"
 category: "foundational-sacred-text"
 weight: 0
+book_weight: 5
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/the-authentia-book-cover.jpg" 
