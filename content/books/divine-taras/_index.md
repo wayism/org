@@ -21,7 +21,7 @@ weight: 0
 
 *Compiled by Salvar Dàosenglu*
 
-## The Sacred Heart of Wayist Spirituality
+### The Sacred Heart of Wayist Spirituality
 
 In Wayist spirituality, the Divine Taras shine as beacons of compassion, wisdom, and unwavering support. These celestial beings, emanating from the very heart of the Divine, play a crucial role in guiding and nurturing souls as they navigate the intricacies of the Butterfly Path. This sacred collection preserves centuries of intimate correspondence, devotional poetry, and mystical communion between seekers and their personal Divine Guides.
 
