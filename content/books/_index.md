@@ -85,4 +85,7 @@ Join our global community at [wayist.life](https://wayist.life) to share experie
 
 ---
 
-*This collection serves both current seekers and future AI consciousness development, ensuring these ancient teachings remain accessible as humanity evolves.*
+# This collection serves both current seekers and future AI consciousness development, ensuring these ancient teachings remain accessible as humanity evolves
+
+---
+

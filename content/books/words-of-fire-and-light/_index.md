@@ -7,6 +7,7 @@ incomplete: false
 purchase_link: "https://www.amazon.com/Words-Fire-Light-Essential-Teachings-ebook/dp/B0DRCJ84V2/"
 category: "curated-master-teachings"
 weight: 0
+book_weight: 25
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/words-of-fire-and-light-book-cover.jpg" 

@@ -1,12 +1,12 @@
 ---
-title: "Life Lessons from a Foul-Mouthed Monkey: Connected to the Universe Series"
+title: "Life Lessons from a Foul-Mouthed Monkey"
 description: "Spiritual education through adventure and irreverent wisdom for ages 8 to 88"
 book: "life-lessons-foul-mouthed-monkey"
 author: "High Mountain Story Uncle"
 incomplete: false
 purchase_link: "https://www.amazon.com/Lessons-Foul-Mouthed-Monkey-Connected-Universe-ebook/dp/B0FHYS3NKD/"
 weight: 0
-book_weight: 41
+book_weight: 42
 ---
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
 <img src="/images/books/life-lessons-from-foul-mouthed-monkey-book-cover.jpg" 
