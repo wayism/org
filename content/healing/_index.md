@@ -3,16 +3,21 @@ title: "Wayist Energy Work"
 description: "Understanding and managing spiritual energies - The technical foundation for energy-aware living and divine connection"
 weight: 25
 ---
+<div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
+<img src="/images/general/man-low-high-self-MINDS-700px.jpg" 
+     alt="wayism the 10 minds and the energetic body" 
+     style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</div>
 
-# Wayist Energy Work: The Technical Foundation
+## The Technical Foundation and the art of Personal Healing
 
-Energy work in Wayism goes beyond traditional meditation and prayer. It's the technical understanding and practical management of the spiritual energies that flow through us, around us, and connect us to the divine realm.
+Energy work in Wayism goes beyond traditional meditation and prayer. It's the technical understanding and practical management of the soul energies, body energies, and spiritual energies that flow through us, around us, and connect us to the divine realm.
 
 ## What is Energy Work in Wayism?
 
 While **Practice** covers traditional spiritual disciplines like meditation and devotion, **Energy Work** addresses the technical aspects of:
 
-- **Energy awareness** - Recognizing and understanding the subtle energies in daily life
+- **Energy awareness** - Recognizing and understanding the subtle energies in daily life: the soul minds, body minds and spirit minds
 - **Energy ecology** - How we interact with the shared energy environment of self-parts, other beings, and even technological influences
 - **Energy maintenance** - Practical techniques for cleansing, balancing, and protecting your energetic system
 - **Divine energy connection** - Technical approaches to connecting with higher energies and Divine Tara guidance
@@ -39,13 +44,28 @@ Advanced techniques for connecting with higher spiritual energies:
 - Techniques for spiritual empowerment and healing
 - Methods for maintaining divine connection in daily life
 
+<div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
+<img src="/images/general/welness-chakra-minds-01-600px.png" 
+     alt="chakra-minds energy work higher-self and lower-self" 
+     style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</div>
+
 ### Pneumatherapy - Wayist Energy Healing
 **Pneumatherapy** (spirit-energy therapy) represents the Wayist approach to energy healing work. This includes:
 
 - **PranaMayati** - The Wayist parallel to energy healing systems like Reiki
-- Theoretical foundations for spiritual healing
+- Theoretical foundations for soul and spiritual energy healing
 - Energy transmission and receiving techniques
 - Professional standards for Wayist energy healing practice
+
+- **Dhatri** - The Wayist full body massage with energy healing intention
+- Theoretical foundation for *nadis* and *dosa* energy healing of the body's energetic system
+- Energy blockages and disruptors in one's environment (could be diet, medicine, toxins, attitudes)
+
+- **Energy Diagnostics** - Various methods of detecting energies in self and in clients
+- We use inherent energy scanning tools built into all humans (many animals also have them)
+- We learn what the signals which we become aware of mean and what to make of them
+- All energy diagnostics and healing, whether self-healing or in pratitioner-client relationship, involves the Tara(s) of the healer and client. Energy healing is a scared art.
 
 ## The Technical Difference
 
@@ -77,6 +97,11 @@ Ready to develop your energy awareness and technical skills? Connect with experi
 - **Pneumatherapy training** - Study Wayist approaches to energy healing
 - **Energy ecology support** - Get guidance for challenging energy environments
 
+### Attend workshops in Puerto Vallarta, Mexico
+- **Workshops** - Learn philosophy, spirituality, or self-help skills. Many of our books form the basis for specialty workshops
+- **Energy Healing Sessions** - Attend clinical sessions for energy healing (diagnostics, PranaMayati, Dhatri, and more)
+- **Advanced Energy Work Training** - Get certified as a professional Wayist Energy Worker
+
 <a href="https://wayist.life" class="cta-button">Join Energy Work Discussions</a>
 {{< /community-invite >}}
 
@@ -105,7 +130,7 @@ Ready to develop your energy awareness and technical skills? Connect with experi
 
 ---
 
-OTHER INDEX FILE _ EDIT / REPLACE 
+OLDER INDEX FILE to add EDIT or REPLACE 
 
 # Wayist Healing & Energy Work
 

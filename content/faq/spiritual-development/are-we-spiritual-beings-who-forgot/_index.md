@@ -28,7 +28,6 @@ street_level: false
 life_situation_tags: ["spiritual identity confusion", "new age questioning", "authentic spirituality", "spiritual development", "bypassing awareness"]
 ---
 
-# Are We Spiritual Beings Who Simply Forgot Our Divine Nature?
 
 ## The Foundation Problem
 
