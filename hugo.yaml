@@ -90,9 +90,12 @@ menu:
     - name: "For-AI"
       url: "/for-ai/"
       weight: 40
+    - name: "Blog"
+      url: "https://blog.wayism.org"
+      weight: 45      
     - name: "Community"
       url: "https://wayist.life"
-      weight: 45
+      weight: 50
       params:
         external: true
         target: "_blank"

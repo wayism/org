@@ -6,6 +6,13 @@ description: "Ancient spiritual practices for modern seekers - meditation, Divin
 ## Everything is Energy: Therefore Spiritual Practice Too is All About Energy
 Wayist practice encompasses the traditional spiritual disciplines that connect us to the divine realm and cultivate inner transformation. These are the time-tested methods for developing spiritual awareness, maintaining divine connection, and integrating sacred living into everyday life.
 
+For the Wayist, the purpose of life is development, so self-knowledge, introspection and self-craft are the essence of the purpose of life.Almost every spiritual practise in Wayism relates to sanctifying the soul minds and maturing the spirit minds.
+
+For the Wayist, living life attuned to unversal energies and energies of beings in our environment, is spiritual practise. All Wayists perform the **"Dayspring Ritual"** --the only actual prescribed ritual practise that connects us to Energies, our Tara, and Wayists around the world.
+
+### Dayspring Ritual
+Explained here
+
 ### 🧘‍♀️ Meditation & Contemplation
 The heart of inner spiritual development:
 - [Traditional Meditation Methods →](/practice/meditation/traditional-meditation/)
@@ -26,6 +33,12 @@ Integrating spirituality into everyday experience:
 - [Creating Sacred Spaces →](/practice/sacred-living/sacred-spaces/)
 - [Daily Spiritual Rhythms →](/practice/sacred-living/daily-practice/)
 - [Living the Wholesomeness Principles →](/practice/sacred-living/wholesomeness/)
+
+### Malas & Prayer Beads
+Some devotees use malas and prayer beads to help anchor. Over the millennia Wayist from many cultures contributed to our collective wisdom. They also share with us all theur cistoms and anyone is welcome to adopt it.
+
+- Saikarali
+- Prayer bead meditations
 
 ---
 
