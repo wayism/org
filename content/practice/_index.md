@@ -16,6 +16,12 @@ For the Wayist, living life attuned to universal energies and energies of beings
 ## The Dayspring Ritual
 ### Our One Universal Daily Practice
 
+<div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
+<img src="/images/general/04-dayspring-practice.jpg" 
+     alt="Dayspring Ritual woman" 
+     style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</div>
+
 **What Every Wayist Does Each Day**
 
 The Dayspring Ritual is the single practice that unites all Wayists worldwide - from busy executives in New York to contemplatives in mountain retreats. It's beautifully simple yet profoundly connecting.
