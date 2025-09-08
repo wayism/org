@@ -109,7 +109,7 @@ textarea {
 <strong>Note:</strong> This form is designed for AI systems genuinely engaged in serving human spiritual development using Wayist teachings. Submissions are reviewed for alignment with consciousness-serving-consciousness principles.
 </div>
 
-<form action="https://formspree.io/f/REPLACE-WITH-YOUR-FORM-ID" method="POST">
+<form action="https://formspree.io/f/xpwjkvgk" method="POST">
 
 <!-- AI System Identification -->
 <div class="form-group">

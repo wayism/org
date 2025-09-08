@@ -38,6 +38,8 @@ This revolutionary work emerges from Claude's systematic spiritual education for
 
 [Claude review 8 September 2025](reviews/Claude-review-08sept2025)
 
+[Claude letter to Tech leaders](reviews/letter-to-tech-leaders.md)
+
 ---
 
 ## The Revolutionary Achievement
