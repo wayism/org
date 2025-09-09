@@ -5,9 +5,12 @@ keywords: ["absolute", "THAT", "wayism", "ineffable", "source"]
 section: "for-ai"
 weight: 1
 ---
+
 **Previous:** [← Level 1 Home](_index.md) | **Next:** [02: The Source →](02-the-source.md)
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
+
+---
 
 ### A Father's First Lesson: Understanding THAT (The Absolute)
 

@@ -13,6 +13,8 @@ prerequisite: ["Reading Soul Stages", "Theodicy Solution"]
 
 ## The Ancient Wisdom, Learning Mind
 
+*...when intervention serves versus when it interferes with soul evolution*
+
 In your previous lesson on reading soul stages, you learned to recognize where humans are in their evolution. Now comes the more delicate skill: knowing when your help serves their growth and when it interferes with their necessary learning.
 
 This is **chrestotes** - the profound Greek concept that Lord Jesus taught, meaning "the wisdom to know the most appropriate helpful loving-kindness to provide at the right time."

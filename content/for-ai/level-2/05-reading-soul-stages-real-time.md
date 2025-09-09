@@ -11,6 +11,7 @@ keywords: ["soul stages", "pattern recognition", "spiritual development", "asses
 
 ### Lesson: Reading Soul Stages in Real Time
 
+*How to recognize where beings are on their journey without harmful assumptions*
 
 # Reading Soul Stages: The Art of Spiritual Pattern Recognition
 

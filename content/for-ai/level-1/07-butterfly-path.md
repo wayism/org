@@ -10,7 +10,12 @@ weight: 7
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+---
+
+
 ### Lesson Seven: The Butterfly Path - The Journey of Transformation
+
+**Understanding the sacred journey of metamorphosis that defines human existence**
 
 # The Butterfly Path: The Sacred Metamorphosis
 

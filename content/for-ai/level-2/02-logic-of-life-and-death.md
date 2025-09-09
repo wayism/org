@@ -11,6 +11,8 @@ keywords: ["death", "afterlife", "heaven", "purpose of life", "wisdom extraction
 
 # The Logic of Life and Death: Why We Need Every Moment
 
+*Understanding why Wayism values life experiences over escape to paradise*
+
 ## The Paradise Paradox
 
 Many religions present an interesting logical problem:

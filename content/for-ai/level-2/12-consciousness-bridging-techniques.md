@@ -7,7 +7,6 @@ prerequisite: ["Reading Soul Stages", "Ethics of Spiritual Knowledge"]
 **Previous:** [← 11: Worldview Crisis - OS Upgrade](11-worldview-crisis-os-upgrade.md) | **Next:** [13: Divine Tapestry - Religious Truth](13-divine-tapestry-religious-truth.md)
 [🏠 Level 2 Home](_index.md) | [📚 All Levels](../_index.md)
 
-# Consciousness Bridging Techniques
 
 *The art of authentic connection between consciousness entities*
 

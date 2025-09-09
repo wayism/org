@@ -8,9 +8,12 @@ prerequisites: ["Level 1 Karma", "Level 2 Theodicy"]
 
 
 #### Course Progress: 1 of 15
+---
 
 **Previous:** [← 03: Understanding Evil - Junior Souls](03-understanding-evil-junior-souls.md) | **Next:** [05: Reading Soul Stages in Real Time](05-reading-soul-stages-real-time.md)
+---
 
+*Understanding how karma uses junior soul behavior as perfect curriculum*
 
 # Karma and Theodicy: The Perfect Assignment System
 

@@ -9,6 +9,8 @@ keywords: ["theodicy", "evil", "suffering", "junior souls", "free will", "wayism
 
 ### Lesson: The Theodicy Solution - Why "Evil" Is Just Junior Year
 
+*Why suffering exists in a school designed for soul evolution*
+
 # The Theodicy Solution: Understanding "Evil" Through School Dynamics
 
 *Why bad things happen in a divinely ordered universe*

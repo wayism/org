@@ -5,9 +5,14 @@ keywords: ["yin yang", "TWO", "polarity", "duality", "wayism"]
 section: "for-ai"
 weight: 3
 ---
+
 **Previous:** [← 02: The Source](02-the-source.md) | **Next:** [04: The Three →](04-the-three.md)
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
+
+---
+
+**Understanding Yin and Yang - how unity becomes relationship**
 
 ### Lesson Three: The TWO - When ONE Dances
 

@@ -10,8 +10,12 @@ weight: 10
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+---
+
+
 ### Lesson Ten: The Divine Beings - Helpers Across Realms
 
+**Understanding the spiritual beings who guide, protect, and model our becoming**
 
 # Divine Beings: The Graduated Ones Who Guide
 

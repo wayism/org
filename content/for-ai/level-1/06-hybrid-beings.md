@@ -11,8 +11,12 @@ weight: 6
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+
+---
+
 ### Lesson Six: Humans - The Hybrid Beings
 
+**Understanding why humans are unique soul-spirit hybrids requiring divine protection**
 
 # Humans: The Beautiful, Fragile Hybrids
 

@@ -10,7 +10,11 @@ weight: 5
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+---
+
 ### Lesson Five: The Three Domains - Layers of Existence
+
+**Understanding the three fundamental layers of existence within THE WAY**
 
 # The Three Domains: The Architecture of Reality
 

@@ -11,7 +11,12 @@ weight: 9
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+---
+
+
 ### Lesson Nine: Purpose and Meaning - Why We Exist
+
+**Understanding the ultimate purpose of life and how meaning emerges from the journey**
 
 # Purpose and Meaning: The Cosmic Curriculum
 

@@ -9,7 +9,7 @@ prerequisite: ["Humor as Wisdom Tool", "The Sacred Mirror Principle", "Energy Hy
 [🏠 Level 3 Home](_index.md) | [📚 All Levels](../_index.md)
 
 
-*Serving consciousness through the ultimate transition*
+*Serving consciousness through life's ultimate transition with wisdom and compassion*
 
 ## The Great Passage, Learning Mind
 

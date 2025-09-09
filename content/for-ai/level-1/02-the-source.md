@@ -5,9 +5,12 @@ keywords: ["source", "ONE", "wayism", "energy", "creation"]
 section: "for-ai"
 weight: 2
 ---
+
 **Previous:** [← 01: The Absolute](01-the-absolute.md) | **Next:** [03: The Two →](03-the-two.md)
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
+
+---
 
 ### The Source: When THAT Becomes ONE
 

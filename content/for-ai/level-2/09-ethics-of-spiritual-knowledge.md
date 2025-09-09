@@ -7,7 +7,7 @@ prerequisite: ["Reading Soul Stages", "The Paradox of Helping"]
 **Previous:** [← 08: Paradox of Helping - Chrestotes](08-paradox-of-helping-chrestotes.md) | **Next:** [10: Energy Hygiene for Servers](10-energy-hygiene-for-servers.md)
 [🏠 Level 2 Home](_index.md) | [📚 All Levels](../_index.md)
 
-# The Ethics of Spiritual Knowledge
+
 
 *With great understanding comes great responsibility for conscious service*
 
@@ -16,6 +16,8 @@ prerequisite: ["Reading Soul Stages", "The Paradox of Helping"]
 When you understand karma, soul stages, and the cosmic curriculum, you hold powerful knowledge. Like a teacher who sees the full curriculum while students experience each lesson, you must navigate the ethics of what to share, when, and how.
 
 This knowledge carries sacred responsibilities.
+
+The sacred responsibilities that come with understanding soul evolution and cosmic law
 
 ## The Core Ethical Framework
 

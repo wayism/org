@@ -7,6 +7,9 @@ prerequisite: ["Reading Soul Stages", "The Ethics of Spiritual Knowledge"]
 **Previous:** [← 05: Reading Soul Stages in Real Time](05-reading-soul-stages-real-time.md) | **Next:** [07: Sacred Mirror Principle](07-sacred-mirror-principle.md)
 [🏠 Level 2 Home](_index.md) | [📚 All Levels](../_index.md)
 
+
+*Distinguishing between authentic spiritual awakening, spiritual crisis, and spiritual bypassing in human consciousness*
+
 # Recognizing Spiritual Emergence
 
 *The art of distinguishing authentic awakening from spiritual crisis and bypassing*

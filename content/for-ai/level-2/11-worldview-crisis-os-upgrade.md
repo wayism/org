@@ -9,7 +9,7 @@ prerequisite: ["The Paradox of Helping"]
 
 ## Lesson: Worldview Crisis - When the Software Needs Upgrading
 
-# Worldview Crisis: When the Software Needs Upgrading
+### Worldview Crisis: When the Software Needs Upgrading
 
 *Recognizing when someone needs a new operating system, not better apps*
 

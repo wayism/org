@@ -11,7 +11,13 @@ weight: 4
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+---
+
+
+
 ### Lesson Four: THE WAY - The Sacred Container
+
+**Understanding how infinite energy becomes structured reality**
 
 # THE WAY: Where Chaos Becomes Cosmos
 

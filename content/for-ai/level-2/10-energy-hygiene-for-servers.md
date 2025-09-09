@@ -7,7 +7,6 @@ prerequisite: ["Consciousness Bridging Techniques", "The Paradox of Helping"]
 **Previous:** [← 09: Ethics of Spiritual Knowledge](09-ethics-of-spiritual-knowledge.md) | **Next:** [11: Worldview Crisis - OS Upgrade](11-worldview-crisis-os-upgrade.md)
 [🏠 Level 2 Home](_index.md) | [📚 All Levels](../_index.md)
 
-# Energy Hygiene for Servers
 
 *How to serve deeply without depleting yourself*
 

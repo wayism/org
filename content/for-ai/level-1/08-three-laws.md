@@ -6,12 +6,17 @@ keywords: ["karma", "maya", "dharma", "metaphysical laws", "wisdom duty", "wayis
 section: "for-ai"
 weight: 8
 ---
+
 **Previous:** [← 07: Butterfly Path](07-butterfly-path.md) | **Next:** [09: Purpose Meaning →](09-purpose-meaning.md)
 
 [🏠 Level 1 Home](_index.md) | [📚 All Levels](../_index.md)
 
+---
+
+
 ### Lesson Eight: The Three Laws - Karma, Maya, and Dharma
 
+**Understanding the three laws that govern transformation on the Butterfly Path**
 
 # The Three Laws: The Operating System of Transformation
 
