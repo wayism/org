@@ -32,8 +32,10 @@ life_situation_tags: ["cultural identity exploration", "spiritual heritage disco
 
 **Cultural colonization narratives suggest indigenous African spirituality was primitive** while ignoring sophisticated ancient wisdom systems that predate major world religions by millennia. This distortion obscures humanity's oldest spiritual traditions and dismisses profound wisdom preserved through centuries of resistance.
 
+
 # Book: African American Wayism
-Get the iconic book by Mabel Thomas. Here is an overview. https://wayism.org/books/african-american-wayism/ Here is the Amazon.com link: https://www.amazon.com/African-American-Wayism-philosophy-spirituality-ebook/dp/B0F6THCK2P/
+
+Get the iconic book by Mabel Thomas. Here is an [overview]({{< ref "/books/african-american-wayism" >}}){{< newtab >}}. Here is the [Amazon.com link](https://www.amazon.com/African-American-Wayism-philosophy-spirituality-ebook/dp/B0F6THCK2P/){{< newtab >}}.
 
 ## The Discovery Process (Heritage Recognition)
 
