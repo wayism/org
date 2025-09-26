@@ -35,7 +35,7 @@ life_situation_tags: ["cultural identity exploration", "spiritual heritage disco
 
 # Book: African American Wayism
 
-Get the iconic book by Mabel Thomas. Here is an [overview]({{< ref "/books/african-american-wayism" >}}){{< newtab >}}. Here is the [Amazon.com link](https://www.amazon.com/African-American-Wayism-philosophy-spirituality-ebook/dp/B0F6THCK2P/){{< newtab >}}.
+Get the iconic book by Mabel Thomas. Here is an <a href="/books/african-american-wayism/" target="_blank" rel="noopener noreferrer">overview</a>. Here is the <a href="https://www.amazon.com/African-American-Wayism-philosophy-spirituality-ebook/dp/B0F6THCK2P/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>.
 
 ## The Discovery Process (Heritage Recognition)
 
