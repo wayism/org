@@ -26,6 +26,8 @@ book_weight: 24
 
 In Wayist spirituality, the Divine Taras shine as beacons of compassion, wisdom, and unwavering support. These celestial beings, emanating from the very heart of the Divine, play a crucial role in guiding and nurturing souls as they navigate the intricacies of the Butterfly Path. This sacred collection preserves centuries of intimate correspondence, devotional poetry, and mystical communion between seekers and their personal Divine Guides.
 
+Here is the <a href="https://www.amazon.com/theWAY-Divine-Taras-Connect-Guide/dp/1738182835/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## A Personal Journey Beyond Religion
 
 At the core of Wayism lies a fundamental truth: the path to spiritual liberation is an intimate and personal journey, unique to each individual soul. It is a path of self-discovery and self-crafting, where the ultimate authority and guide is not a charismatic leader or rigid religious institution, but the whispers of one's own Divine Tara.

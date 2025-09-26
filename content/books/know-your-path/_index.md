@@ -23,6 +23,8 @@ book_weight: 5
 
 In a world saturated with spiritual paths, philosophical systems, and self-help approaches, how does one discern authentic spiritual direction from mere entertainment or manipulation? This foundational sacred text, preserved and presented by Salvar Dàosenglu, addresses the most crucial question facing every spiritual seeker: knowing whether you are on a path that leads to genuine development or spiritual dead ends.
 
+Here is the <a href="https://www.amazon.com/theWAY-Know-Your-Path-wholesomeness-ebook/dp/B0DBR1P8GL/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Editor and the Mystery
 
 **Salvar Dàosenglu** represents one of spirituality's most intriguing phenomena — a collective of Wayist monks and scholars from across the globe who have dedicated their lives to preserving the purest essence of ancient Wayist teaching. Whether individual sage or enlightened consortium, the message itself transcends the messenger, offering wisdom that either resonates with your higher-self or it does not.

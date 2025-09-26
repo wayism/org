@@ -23,6 +23,8 @@ In the vast tapestry of spiritual traditions, seekers traverse universes of phil
 
 This book reveals the answer through teachings unique and exclusive to Wayism. While some concepts use familiar terms like Karma, Dharma, Reincarnation, Maya, and references to God our Father and Mother in heaven, Wayists define these foundational principles in ways that are fundamentally different from other traditions—distinctions that are crucial for understanding the authentic Wayist path.
 
+Here is the <a href="https://www.amazon.com/theWAY-Heart-Mind-Ancient-Teachings-ebook/dp/B0D9R6Z3RY/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Dual Purpose of These Teachings
 
 Like the delicate flower of Ajna-mind, this wisdom unfolds with two sacred purposes:

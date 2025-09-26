@@ -24,6 +24,8 @@ book_weight: 24
 
 **theWAY of the Soul Mirror** stands as one of the most ingeniously preserved foundational texts in human spiritual history. This ancient collection of 63 aphorisms was deliberately designed to appear as nothing more than simple platitudes — a strategic disguise that allowed profound esoteric teachings to survive millennia of government persecution and suppression.
 
+Here is the <a href="https://www.amazon.com/theWAY-Soul-Mirror-Management-Practitioners-ebook/dp/B0FFY8HSCR/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Hidden Wisdom Revealed
 
 What appears on the surface as gentle moral guidance contains beneath it the complete framework for **spiritual energy management** — the foundational knowledge that enables individuals, families, and communities to fulfill the true purpose of human existence: the metamorphosis from mortal soul to immortal spirit.

@@ -21,6 +21,8 @@ book_weight: 32
 
 In the tapestry of human existence, where countless philosophies and belief systems interweave, Wayism emerges as a profound foundation of ancient wisdom offering a clear path to true wholesomeness of mind, body, and spirit. What makes this ancient tradition particularly remarkable is how perfectly it aligns with modern scientific understanding of human well-being and happiness.
 
+Here is the <a href="https://www.amazon.com/theWAY-Wholesomeness-Science-Wayists-Happier/dp/1998478351/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Promise Validated by Science
 
 This book explores a compelling premise: that Wayism, as a lifestyle and worldview, encompasses all the key elements which scientific research has identified as crucial for a happy, healthy, and meaningful life. As we delve into each aspect of Wayist philosophy and practice, this premise validates itself time and again through rigorous scientific correlation.

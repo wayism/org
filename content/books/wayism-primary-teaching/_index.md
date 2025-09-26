@@ -28,6 +28,9 @@ Salvar Dàosenglu speaks not as an individual but as the voice of a collective �
 
 **Primary Teaching** serves as the **ontological bedrock** of Wayism, establishing the complete philosophical framework for understanding existence, consciousness, and spiritual purpose. This ancient wisdom compilation provides the foundational structure upon which all subsequent Wayist teaching rests.
 
+Here is the <a href="https://www.amazon.com/Primary-Teaching-theWAY-Existence-Spiritual/dp/1998478793/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other. Also available in Spanish (ENSEÑANZA PRIMARIA elCAMINO: la Naturaleza de la Existencia, el Propósito de la Vida, y el Camino Espiritual) and Chinese (道法要义: 道法初修教導 : 存在的本質、生命的目的與靈性之道).
+
+
 ## What This Sacred Text Provides
 
 ### Complete Foundational Framework

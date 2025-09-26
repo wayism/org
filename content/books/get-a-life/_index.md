@@ -22,6 +22,8 @@ Your soul chose this time for transformation, you came to attend this school of 
 These teachings light the way forward. Welcome to your awakening.
 Familiarize yourself with 11 basic principles of the Wayist worldview and lifestyle, known to be the one philosophy that creates wholesome people. Adopt these principles to cultivate a personal life philosophy that will guide you for the rest of your life. It will significantly simplify your life and contribute to your wellness of soul, mind, and spirit.
 
+Here is the <a href="https://www.amazon.com/theWAY-Get-Life-Principles-Spirit-ebook/dp/B0DR9YWPCC/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Foundation for Transformation
 
 This book familiarizes you with 11 basic principles of the Wayist worldview and lifestyle. Adopt these principles to cultivate a personal life philosophy that will guide you for the rest of your life. It will significantly simplify your life and contribute to your wellness of soul, mind, and spirit.

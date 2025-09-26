@@ -24,7 +24,7 @@ book_weight: 36
 
 Welcome to a profound journey of spiritual homecoming. **African American Wayism** offers a revolutionary approach to spirituality that honors African heritage while teaching universal Wayist principles — not as a rejection of your current path, but as a deepening of it through cultural wisdom that runs in your bloodline.
 
-Here is the <a href="https://www.amazon.com/African-American-Wayism-philosophy-spirituality-ebook/dp/B0F6THCK2P/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>.
+Here is the <a href="https://www.amazon.com/African-American-Wayism-philosophy-spirituality-ebook/dp/B0F6THCK2P/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers.
 
 ## The Call to Remember
 

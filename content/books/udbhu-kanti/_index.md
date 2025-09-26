@@ -18,6 +18,8 @@ book_weight: 20
 
 In a world often saturated with artifice and the pursuit of superficial perfection, the ancient Wayist philosophy of **udbhu-kanti** offers a revolutionary understanding: true beauty and genuine wealth stem from authenticity, character, and the perfectly imperfect story of a life authentically lived. Once you reach this stage of spiritual development you discover contentment and deep appreciation for all life around you. Udbhu Kanti is the simplest of thing--yet it remains a higher-self spiritual energy skill and attitide.
 
+Here is the <a href="https://www.amazon.com/theWAY-Udbhu-Kanti-Discovering-Perfectly-Imperfect/dp/1998478254/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Heart of Udbhu-kanti
 
 **Udbhu-kanti** emerges from two Sanskrit terms: "udbhu" meaning authentic, real, and true to essence, and "kanti" referring to beauty, radiance, and charm. Together, they point to the profound allure of things that are genuinely themselves, unsullied by pretense or artifice.

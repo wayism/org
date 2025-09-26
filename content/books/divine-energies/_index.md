@@ -23,6 +23,8 @@ This book serves as a guiding light for those who seek to deepen their connectio
 
 In a world consumed by chaos and distraction, these timeless techniques offer a sacred path to inner peace, wisdom, and healing. They are the birthright of every human being, an essential part of our spiritual evolution.
 
+Here is the <a href="https://www.amazon.com/theWAY-Divine-Energies-Practices-Transformation/dp/1998478505" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Sacred Triad of Spiritual Practice
 
 Within these pages, you will discover how to integrate **prayer, meditation, and mystiception** into daily life to forge a profound connection with the divine. These three foundational practices form a powerful triad of spiritual growth, each serving unique purposes while intimately interconnected.

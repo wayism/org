@@ -20,6 +20,8 @@ book_weight: 42
 
 Welcome to an extraordinary adventure in spiritual education disguised as irreverent storytelling! **Life Lessons from a Foul-Mouthed Monkey** introduces Juan Pedro deMaria da Silva Junior — a monkey with the gift of human speech who unfortunately learned his vocabulary from sailors and truck drivers, creating the most unexpectedly wise spiritual teacher you'll ever encounter.
 
+Here is the <a href="https://www.amazon.com/Lessons-Foul-Mouthed-Monkey-Connected-Universe-ebook/dp/B0FHYS3NKD/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ### Listen to chapter 1
 
 {{< podbean episode="459an-187980c-pb" title="Episode Title" height="200" >}}

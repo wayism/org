@@ -17,6 +17,8 @@ book_weight: 41
 
 # High Mountain Story Uncle: the Biography
 
+Here is the <a href="https://www.amazon.com/High-Mountain-Story-Uncle-Biography-ebook/dp/B0DGPC2RJZ/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ### A Satirical Fantasy Adventure
 
 When the Town Council of Nihnuta asked Jean du Plessis to write the biography of the celebrated High Mountain Story Uncle, he couldn't help but feel overwhelmed with gratitude. After all, Uncle's stories were treasured aspects of childhood for countless readers worldwide. 

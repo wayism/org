@@ -19,6 +19,8 @@ book_weight: 25
 
 This carefully curated collection preserves the oral wisdom of Beloved +Yusa (1927-2002), a realized spiritual master whose teachings emerged from decades of spiritual authority, profound trial, and integration of multiple wisdom traditions. Through ashram talks and intimate conversations, these teachings capture the essence of a master who taught not through grand proclamations but through simple observations, gentle humor, and profound insights into the human condition.
 
+Here is the <a href="https://www.amazon.com/Words-Fire-Light-Essential-Teachings-ebook/dp/B0DRCJ84V2/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## About This Sacred Preservation
 
 Beloved +Yusa embodied what authentic spiritual teaching looks like when it emerges from true qualification. Born in Turkey to a Sufi father and Armenian Christian mother, ordained as Mar Yusa in the Ancient Church of the East, tested through persecution and torture, he spent decades preserving the "golden thread of Wayist wisdom" that connects all authentic spiritual traditions.

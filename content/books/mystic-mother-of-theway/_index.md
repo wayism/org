@@ -25,6 +25,8 @@ Every morning as Kaori Mizuki prepares her fish market stall in Japan, her hands
 
 **Mari of Magadha** walked with Lord Jesus for years, learning everything about theWAY — the healing, spiritual technology, energy work, the philosophy. She taught women and children from India to Galilee to Egypt and Aksum, but she also learned about her true self, her spiritual self, and that is theWAY which she teaches — the Path to fulfill our spiritual potential.
 
+Here is the <a href="https://www.amazon.com/Mystic-Mother-theWAY-Curated-collection/dp/1998478599" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Revolutionary Teacher
 
 Mari's journey from a wealthy merchant's daughter to slavery in the brothels of Srinagar to her place as one of humanity's greatest spiritual teachers shows us something profound about transformation. Like the lotus pods and seeds brimming with potential for beauty Kaori sometimes finds tangled in her freshwater nets, wisdom often grows strongest in places others consider unclean.

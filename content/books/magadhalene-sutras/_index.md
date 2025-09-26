@@ -23,6 +23,8 @@ book_weight: 23
 
 This extraordinary collection preserves the earliest literary contributions of **Mari of Magadha** — the most dedicated long-term disciple of Lord Jesus and arguably the most influential woman in early spiritual history. These sacred letters and teachings, compiled by the International Association of Wayist Organizations (IAWO), offer unprecedented glimpse into authentic first-century Wayist teaching and the revolutionary ministry of a remarkable woman.
 
+Here is the <a href="https://www.amazon.com/Magadhalene-Sutras-Wayist-Collection-Iawo/dp/0987680064/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## Mari of Magadha: The Unsung Hero
 
 **Mari spent more time training and living with Lord Jesus than any other human being.** Once an enslaved child, she devoted over sixty years to the Wayist cause, traveling with Jesus for ten years throughout Northern India, Kashmir, Pakistan, Iraq, and Judea. She was present at the most significant moments — meetings with the Gondophares family in Kashmir, founding of Wayist communities in the Himalayas, the crucifixion, and the resurrection.

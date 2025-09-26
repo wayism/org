@@ -24,6 +24,8 @@ In the mists of time, where history fades into myth and legend, lies a tale of p
 
 Around 3000 BCE, the Sumerians emerged as inheritors of this ancient legacy, becoming the first to commit to writing the profound wisdom of theWAY. However, they were not the originators of this wisdom, but its first scribes — preserving teachings that had been passed down through countless generations.
 
+Here is the <a href="https://www.amazon.com/Child-Enki-you-are-Enlil-ebook/dp/B0DBF6TKKW/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The First Written Philosophy and Spirituality
 
 Humans started writing around 5,500 years ago in Mesopotamia. After millennia of oral tradition, the primordial philosophy and spirituality of humankind became the first cultural wisdom to be recorded in writing. The Wayist principles of cosmology and spirituality, as documented by the Sumerians, resonate with the earliest philosophy and spirituality of areas now known as India, Mesoamerica, and China.

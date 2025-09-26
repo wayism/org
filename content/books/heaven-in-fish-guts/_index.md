@@ -19,6 +19,8 @@ book_weight: 30
 
 In the markets of Kamakura and Puerto Vallarta, between fish scales and morning light, wisdom speaks through unwashed fingers and aching joints. Kaori Mizuki, Japanese fish market vendor and Wayist teacher, offers her unflinching observations of life's raw beauty and spiritual truth through essays and poetry that find enlightenment in the most overlooked places. --- Kaori's poems are poignant, sharp, and telling. Her observations of life and living beings in her field of consciousness is a lesson to all.
 
+Here is the <a href="https://www.amazon.com/Finding-Heaven-Fish-Guts-Celebrating/dp/1998478319/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Revolutionary Approach
 
 Some might question why a fish vendor concerns herself with spiritual matters, or why divine truth should speak through mundane details of market life. But Kaori's work demonstrates that wisdom lives precisely in these overlooked spaces — in the way blood patterns form on cutting boards, in how elderly women navigate steep streets, in the particular scent that rises when interior meets exterior.

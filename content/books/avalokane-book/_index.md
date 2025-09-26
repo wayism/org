@@ -22,6 +22,8 @@ Book:
 
 **An advanced Wayist meditation practice for sincere spiritual seekers**
 
+Here is the <a href="https://www.amazon.com/gp/aw/d/1998478653" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ---
 
 ## About This Practice

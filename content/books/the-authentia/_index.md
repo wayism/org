@@ -22,6 +22,8 @@ book_weight: 5
 
 For millennia, The Authentia has been a guiding light for seekers of truth, a sacred tome cherished in the hallowed halls of Wayist training centers. Its pages contain the very essence of Wayist philosophy, the foundational principles for understanding the nature of being itself and the architecture of reality.
 
+Here is the <a href="https://www.amazon.com/Authentia-Ancient-Wayist-Wisdom-Modern/dp/1998478300" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Historic Decision
 
 In 2023, a momentous decision was made. The Board of Elders of theWAY, in their infinite wisdom, chose to share this treasure with the world. No longer would The Authentia's profound insights be confined to cloistered sanctuaries, privy only to a select few who could receive its deeper meanings through qualified teachers. It was time for the veil to be lifted, for the light of its teachings to illuminate the path for all of humanity.

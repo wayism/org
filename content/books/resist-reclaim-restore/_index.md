@@ -23,6 +23,8 @@ book_weight: 27
 **"How long are you going to wait before you demand the best of yourself?"**  
 — Epictetus (80 CE)
 
+Here is the <a href="https://www.amazon.com/Resist-Reclaim-Restore-Battle-Women-ebook/dp/B0FHC27K97/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+
 ## The Battle for Your Soul
 
 Look around. Really look.
