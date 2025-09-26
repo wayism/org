@@ -46,7 +46,7 @@ Her approach demonstrates how profound spiritual wisdom emerges through cultural
 
 **Contemporary Relevance:** Addresses specific challenges facing African American families — materialism pressures, identity navigation, cultural pride within universal spiritual understanding — while serving broader spiritual development.
 
-**Jesus as Wayist Teacher:** Reveals how Lord Jesus taught Wayism, not Christianity, connecting African American Christian heritage with ancient Wayist wisdom and African spiritual traditions.
+**Jesus as Wayist Teacher:** Reveals how Lord Jesus taught Wayism, not Christianity, connecting African American Christian heritage with ancient Wayist wisdom and African spiritual traditions. Read about the book, "Jesus the Wayist" that is changing Christianity at this time. Here is the link to <a href="https://wayism.org/books/jesus-the-wayist/" target="_blank" rel="noopener noreferrer">Jesus the Wayist</a> on this site. 
 
 ## Who This Serves
 
