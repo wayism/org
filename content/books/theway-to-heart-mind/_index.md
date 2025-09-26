@@ -15,9 +15,7 @@ book_weight: 2
 </div>
 
 
-## Ancient Teachings Unique to Wayism
-
-*Live with Purpose, Peace and Clarity in a Chaotic World*
+### Live with Purpose, Peace and Clarity in a Chaotic World
 
 In the vast tapestry of spiritual traditions, seekers traverse universes of philosophies and religions searching for that which makes their ancient soul leap with recognition. Always the question arises: "What is different about this path that made my spirit grab hold and never let go?"
 

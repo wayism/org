@@ -17,7 +17,7 @@ book_weight: 24
 </div>
 
 
-# theWAY of the Soul Mirror
+## Foundational sacred text of 63 ancient aphorisms for society, family, and practitioners
 ## The Ancients Teach Spiritual Energy Management for Society, Family, and Practitioners
 
 *Edited by Salvar Dàosenglu*

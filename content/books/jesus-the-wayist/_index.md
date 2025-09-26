@@ -13,7 +13,7 @@ book_weight: 21
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-### theWAY of Lord Jesus Before the Judeo-Christian Religion
+### Discovering the original teaching of conscious spiritual evolution
 
 The book that is changing how lukewarm and ex-Christians understand the world and reclaim their spirituality.
 
@@ -21,7 +21,7 @@ Ever feel like something's missing in religious teaching? Like there's a deeper 
 
 Two thousand years ago, a divine being incarnated in Galilee as the man Jesus to reawaken humanity to an ancient teaching called theWAY. This wasn't a religion, but a practical path of spiritual evolution teaching humans their true purpose — attending this school of divinity for soul beings, to develop from soul-beings into immortal spiritual beings. Lord Jesus taught this wisdom from Egypt to India, showing people how to connect directly with divine reality through energy healing and conscious transformation.
 
-Here is the <a href="https://www.amazon.com/Jesus-Wayist-Teaching-Christians-Religion-ebook/dp/B0DSBH3D8K" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
+*Here is the <a href="https://www.amazon.com/Jesus-Wayist-Teaching-Christians-Religion-ebook/dp/B0DSBH3D8K" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.*
 
 ## The Great Transformation
 

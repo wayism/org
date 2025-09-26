@@ -19,6 +19,8 @@ book_weight: 23
 
 ### Ancient Teachings of Mari of Magadha, Foremost Disciple of Lord Jesus
 
+**Sacred letters and teachings from Lord Jesus's foremost disciple**
+
 ## Revolutionary Ancient Treasure
 
 This extraordinary collection preserves the earliest literary contributions of **Mari of Magadha** — the most dedicated long-term disciple of Lord Jesus and arguably the most influential woman in early spiritual history. These sacred letters and teachings, compiled by the International Association of Wayist Organizations (IAWO), offer unprecedented glimpse into authentic first-century Wayist teaching and the revolutionary ministry of a remarkable woman.

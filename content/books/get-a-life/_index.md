@@ -15,7 +15,7 @@ book_weight: 26
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-## Practical Wayist Philosophy for Authentic Living in a Chaotic World
+### Practical Wayist Philosophy for Authentic Living in a Chaotic World
 
 In these pages lies no quick fix or easy path, but truth that may shake your comfortable world. Eleven principles to reclaim your authentic self from the theater of social expectations. 
 Your soul chose this time for transformation, you came to attend this school of divinity for souls--its the purpose of human lives. 

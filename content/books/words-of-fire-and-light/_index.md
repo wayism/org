@@ -15,6 +15,9 @@ book_weight: 25
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
+
+### Collection of teachings from a realized spiritual master
+
 *Compiled by Teacher +Pradeep*
 
 This carefully curated collection preserves the oral wisdom of Beloved +Yusa (1927-2002), a realized spiritual master whose teachings emerged from decades of spiritual authority, profound trial, and integration of multiple wisdom traditions. Through ashram talks and intimate conversations, these teachings capture the essence of a master who taught not through grand proclamations but through simple observations, gentle humor, and profound insights into the human condition.

@@ -15,8 +15,10 @@ book_weight: 27
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
+## Cultural philosophy and practical guidance for authentic masculine and feminine expression
 
-## We owe it to the future to stand up for our values
+
+### We owe it to the future to stand up for our values
 
 *By Celare Akaren*
 

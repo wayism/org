@@ -20,7 +20,9 @@ book_weight: 1
 
 ---
 
-## The Foundation of All Wisdom
+## Foundational sacred text establishing the complete philosophical framework of Wayism
+
+**The Foundation of All Wisdom**
 
 In your hands rests access to a treasure trove of ancient wisdom — a meticulously compiled compendium of teachings that span millennia and traverse the globe. This foundational sacred text offers profound spiritual insights that have guided seekers on the path of transformation since time immemorial.
 

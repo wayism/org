@@ -15,8 +15,8 @@ book_weight: 5
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-# theWAY of The Authentia
-## Ancient Wayist Wisdom for the Modern Seeker
+## The foundational sacred text that safeguards the philosophical and ontological principles of Wayism
+### Ancient Wayist Wisdom for the Modern Seeker
 
 *Edited by Salvar Dàosenglu*
 

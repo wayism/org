@@ -16,7 +16,8 @@ book_weight: 5
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-# theWAY to Know Your Path
+
+## Foundational sacred text establishing authentic spiritual direction principles
 ### If not on the Path of authenticity, joy, peace, and wholesomeness, where are you heading?
 
 ## Ancient Wisdom for Modern Discernment

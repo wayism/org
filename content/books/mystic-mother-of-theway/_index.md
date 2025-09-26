@@ -16,7 +16,8 @@ book_weight: 31
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-# Mystic Mother of theWAY
+## Ancient mystical poetry with contemporary contemplative commentary
+
 *Curated collection of the poems of Mari of Magadha who walked with Jesus*
 
 ## Finding Heaven's Light Through Ancient Wisdom

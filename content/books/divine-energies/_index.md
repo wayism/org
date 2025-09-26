@@ -14,8 +14,8 @@ book_weight: 3
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-### theWAY of Divine Energies
-#### Wayist Practices for Spiritual Awakening and Transformation
+
+#### The book about Wayist Practices for Spiritual Awakening and Transformation
 
 *Ancient Practices for Inner Peace, Wisdom, and Divine Connection*
 

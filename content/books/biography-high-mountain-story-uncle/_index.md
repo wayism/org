@@ -1,5 +1,5 @@
 ---
-title: "High Mountain Story Uncle: the Biography - A Satirical Fantasy"
+title: "High Mountain Story Uncle: the Biography"
 description: "Where reality bends and magic thrives in the mystical village of Nihnuta"
 book: "biography-high-mountain-story-uncle"
 author: "Jean Prieur du Plessis"
@@ -15,11 +15,11 @@ book_weight: 41
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-# High Mountain Story Uncle: the Biography
+# A Satirical Fantasy - Where reality bends and magic thrives in the mystical village of Nihnuta
 
 Here is the <a href="https://www.amazon.com/High-Mountain-Story-Uncle-Biography-ebook/dp/B0DGPC2RJZ/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
 
-### A Satirical Fantasy Adventure
+### A Satirical Adventure for kids 14 to 94
 
 When the Town Council of Nihnuta asked Jean du Plessis to write the biography of the celebrated High Mountain Story Uncle, he couldn't help but feel overwhelmed with gratitude. After all, Uncle's stories were treasured aspects of childhood for countless readers worldwide. 
 What Jean didn't anticipate was that Nihnuta itself would prove to be disturbingly otherworldly — an entire community that deliberately teeters on the very edge of sanity and reality, whimsically playing hopscotch over that harrowing edge.

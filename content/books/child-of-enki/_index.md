@@ -20,6 +20,8 @@ book_weight: 6
 
 ## The Birth of Written Wisdom
 
+**Ancient Sumerian wisdom revealing the foundational cosmological framework of Wayism**
+
 In the mists of time, where history fades into myth and legend, lies a tale of profound significance — the birth of written wisdom. This story begins not with the Sumerians alone, but with their enigmatic predecessors: the peoples of Göbekli Tepe 10,000 years ago and the Ubaid people, who laid the foundations of civilization in the fertile lands between the Tigris and Euphrates rivers long before 5000 BCE.
 
 Around 3000 BCE, the Sumerians emerged as inheritors of this ancient legacy, becoming the first to commit to writing the profound wisdom of theWAY. However, they were not the originators of this wisdom, but its first scribes — preserving teachings that had been passed down through countless generations.

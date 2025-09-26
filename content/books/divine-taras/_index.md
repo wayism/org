@@ -17,7 +17,7 @@ book_weight: 24
 </div>
 
 
-# theWAY to the Divine Taras
+## A sacred collection of devotional poetry and correspondence between humans and their Divine Taras
 ## Connect and Walk with your Divine Guide
 
 *Compiled by Salvar Dàosenglu*

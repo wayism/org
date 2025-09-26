@@ -16,6 +16,8 @@ book_weight: 42
 
 ## Connected to the Universe Series - Book 1
 
+### Spiritual education through adventure and irreverent wisdom for ages 8 to 88
+
 *By High Mountain Story Uncle*
 
 Welcome to an extraordinary adventure in spiritual education disguised as irreverent storytelling! **Life Lessons from a Foul-Mouthed Monkey** introduces Juan Pedro deMaria da Silva Junior — a monkey with the gift of human speech who unfortunately learned his vocabulary from sailors and truck drivers, creating the most unexpectedly wise spiritual teacher you'll ever encounter.

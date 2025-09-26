@@ -20,6 +20,8 @@ book_weight: 22
 
 ## This is her story ~ This is our story
 
+### The true story of transformation from darkness to divine light
+
 In the year 33, as Roman legions cast long shadows across Jerusalem and Sanskrit chants echoed through the valleys of the Himalayas, a great light was about to emerge from the intersection of East and West. --- This is not merely a tale of one woman's journey from darkness to light, though it is that. Nor is it simply an account of how a great spiritual teacher walked the Earth and changed it forever, though it is that too. This is the story of how love proved stronger than death, how wisdom flourished in the most unlikely places, and how the greatest spiritual revolution in human history began not in temples or palaces, but in the heart of a girl sold into slavery.
 
 Here is the <a href="https://www.amazon.com/Indian-Brothels-Divine-Guide-Jerusalem-ebook/dp/B0DVR3M6SW/" target="_blank" rel="noopener noreferrer">Amazon.com link</a>. E-books, print books, and audiobooks are also available from most online retailers including Spotify, Kobo, Walmart, and other.
